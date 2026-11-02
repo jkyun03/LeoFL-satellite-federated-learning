@@ -1,0 +1,3036 @@
+﻿time,sat,event
+6,sat_4,GS connect
+6,sat_4,get_global
+11,sat_2,GS connect
+11,sat_2,get_global
+13,sat_6,GS connect
+13,sat_6,get_global
+17,sat_7,GS connect
+17,sat_7,get_global
+22,sat_1,GS connect
+22,sat_1,get_global
+30,sat_2,local
+31,sat_1,local
+45,sat_4,local
+52,sat_5,GS connect
+52,sat_5,get_global
+54,sat_3,GS connect
+54,sat_3,get_global
+72,sat_6,local
+83,sat_3,local
+86,sat_7,local
+101,sat_5,local
+106,sat_4,GS connect
+107,sat_2,GS connect
+117,sat_1,GS connect
+118,sat_6,GS connect
+120,sat_7,GS connect
+151,sat_3,GS connect
+152,sat_5,GS connect
+153,sat_3,get_global
+153,sat_5,get_global
+182,sat_3,local
+202,sat_5,local
+203,sat_2,GS connect
+203,sat_2,get_global
+207,sat_4,GS connect
+207,sat_4,get_global
+212,sat_1,GS connect
+212,sat_1,get_global
+221,sat_1,local
+222,sat_6,GS connect
+222,sat_6,get_global
+222,sat_2,local
+223,sat_7,GS connect
+223,sat_7,get_global
+246,sat_4,local
+249,sat_3,GS connect
+251,sat_5,GS connect
+281,sat_6,local
+292,sat_7,local
+299,sat_2,GS connect
+307,sat_4,GS connect
+308,sat_1,GS connect
+326,sat_6,GS connect
+326,sat_7,GS connect
+327,sat_6,get_global
+327,sat_7,get_global
+346,sat_3,GS connect
+346,sat_3,get_global
+351,sat_5,GS connect
+351,sat_5,get_global
+375,sat_3,local
+386,sat_6,local
+395,sat_2,GS connect
+395,sat_2,get_global
+396,sat_7,local
+400,sat_5,local
+403,sat_1,GS connect
+403,sat_1,get_global
+407,sat_4,GS connect
+407,sat_4,get_global
+412,sat_1,local
+414,sat_2,local
+428,sat_7,GS connect
+431,sat_6,GS connect
+443,sat_3,GS connect
+446,sat_4,local
+451,sat_5,GS connect
+491,sat_2,GS connect
+498,sat_1,GS connect
+508,sat_4,GS connect
+509,sat_1,get_global
+509,sat_4,get_global
+518,sat_1,local
+531,sat_7,GS connect
+531,sat_7,get_global
+535,sat_6,GS connect
+535,sat_6,get_global
+541,sat_3,GS connect
+541,sat_3,get_global
+548,sat_4,local
+551,sat_5,GS connect
+551,sat_5,get_global
+570,sat_3,local
+587,sat_2,GS connect
+587,sat_2,get_global
+593,sat_1,GS connect
+594,sat_6,local
+600,sat_5,local
+600,sat_7,local
+606,sat_2,local
+608,sat_4,GS connect
+634,sat_7,GS connect
+638,sat_3,GS connect
+639,sat_6,GS connect
+650,sat_5,GS connect
+683,sat_2,GS connect
+684,sat_2,get_global
+688,sat_1,GS connect
+688,sat_1,get_global
+697,sat_1,local
+703,sat_2,local
+708,sat_4,GS connect
+708,sat_4,get_global
+736,sat_3,GS connect
+736,sat_3,get_global
+737,sat_7,GS connect
+737,sat_7,get_global
+743,sat_6,GS connect
+743,sat_6,get_global
+747,sat_4,local
+750,sat_5,GS connect
+750,sat_5,get_global
+765,sat_3,local
+779,sat_2,GS connect
+784,sat_1,GS connect
+799,sat_5,local
+802,sat_6,local
+806,sat_7,local
+809,sat_4,GS connect
+833,sat_3,GS connect
+839,sat_7,GS connect
+848,sat_6,GS connect
+850,sat_5,GS connect
+851,sat_5,get_global
+851,sat_6,get_global
+851,sat_7,get_global
+875,sat_2,GS connect
+875,sat_2,get_global
+879,sat_1,GS connect
+879,sat_1,get_global
+888,sat_1,local
+894,sat_2,local
+900,sat_5,local
+909,sat_4,GS connect
+909,sat_4,get_global
+910,sat_6,local
+920,sat_7,local
+931,sat_3,GS connect
+931,sat_3,get_global
+942,sat_7,GS connect
+948,sat_4,local
+950,sat_5,GS connect
+952,sat_6,GS connect
+960,sat_3,local
+971,sat_2,GS connect
+974,sat_1,GS connect
+1009,sat_4,GS connect
+1028,sat_3,GS connect
+1029,sat_3,get_global
+1045,sat_7,GS connect
+1045,sat_7,get_global
+1049,sat_5,GS connect
+1049,sat_5,get_global
+1056,sat_6,GS connect
+1056,sat_6,get_global
+1058,sat_3,local
+1067,sat_2,GS connect
+1067,sat_2,get_global
+1069,sat_1,GS connect
+1069,sat_1,get_global
+1078,sat_1,local
+1086,sat_2,local
+1098,sat_5,local
+1110,sat_4,GS connect
+1110,sat_4,get_global
+1114,sat_7,local
+1115,sat_6,local
+1126,sat_3,GS connect
+1148,sat_7,GS connect
+1149,sat_5,GS connect
+1149,sat_4,local
+1161,sat_6,GS connect
+1163,sat_2,GS connect
+1165,sat_1,GS connect
+1210,sat_4,GS connect
+1211,sat_4,get_global
+1223,sat_3,GS connect
+1223,sat_3,get_global
+1249,sat_5,GS connect
+1249,sat_5,get_global
+1250,sat_4,local
+1251,sat_7,GS connect
+1251,sat_7,get_global
+1252,sat_3,local
+1259,sat_2,GS connect
+1259,sat_2,get_global
+1260,sat_1,GS connect
+1260,sat_1,get_global
+1265,sat_6,GS connect
+1265,sat_6,get_global
+1269,sat_1,local
+1278,sat_2,local
+1298,sat_5,local
+1310,sat_4,GS connect
+1320,sat_7,local
+1321,sat_3,GS connect
+1324,sat_6,local
+1349,sat_5,GS connect
+1353,sat_7,GS connect
+1355,sat_1,GS connect
+1355,sat_2,GS connect
+1369,sat_6,GS connect
+1370,sat_6,get_global
+1411,sat_4,GS connect
+1411,sat_4,get_global
+1418,sat_3,GS connect
+1418,sat_3,get_global
+1429,sat_6,local
+1447,sat_3,local
+1448,sat_5,GS connect
+1448,sat_5,get_global
+1450,sat_1,GS connect
+1450,sat_1,get_global
+1450,sat_4,local
+1451,sat_2,GS connect
+1451,sat_2,get_global
+1456,sat_7,GS connect
+1456,sat_7,get_global
+1459,sat_1,local
+1470,sat_2,local
+1473,sat_6,GS connect
+1497,sat_5,local
+1511,sat_4,GS connect
+1515,sat_3,GS connect
+1525,sat_7,local
+1546,sat_1,GS connect
+1547,sat_2,GS connect
+1548,sat_5,GS connect
+1559,sat_7,GS connect
+1560,sat_5,get_global
+1560,sat_7,get_global
+1578,sat_6,GS connect
+1578,sat_6,get_global
+1609,sat_5,local
+1611,sat_4,GS connect
+1611,sat_4,get_global
+1613,sat_3,GS connect
+1613,sat_3,get_global
+1629,sat_7,local
+1637,sat_6,local
+1641,sat_1,GS connect
+1641,sat_1,get_global
+1642,sat_3,local
+1643,sat_2,GS connect
+1643,sat_2,get_global
+1648,sat_5,GS connect
+1650,sat_1,local
+1650,sat_4,local
+1662,sat_7,GS connect
+1662,sat_2,local
+1682,sat_6,GS connect
+1710,sat_3,GS connect
+1712,sat_4,GS connect
+1736,sat_1,GS connect
+1739,sat_2,GS connect
+1740,sat_1,get_global
+1740,sat_2,get_global
+1748,sat_5,GS connect
+1748,sat_5,get_global
+1749,sat_1,local
+1759,sat_2,local
+1765,sat_7,GS connect
+1765,sat_7,get_global
+1786,sat_6,GS connect
+1786,sat_6,get_global
+1797,sat_5,local
+1808,sat_3,GS connect
+1808,sat_3,get_global
+1812,sat_4,GS connect
+1812,sat_4,get_global
+1831,sat_1,GS connect
+1834,sat_2,GS connect
+1834,sat_7,local
+1837,sat_3,local
+1845,sat_6,local
+1847,sat_5,GS connect
+1851,sat_4,local
+1867,sat_7,GS connect
+1891,sat_6,GS connect
+1905,sat_3,GS connect
+1912,sat_4,GS connect
+1913,sat_3,get_global
+1913,sat_4,get_global
+1927,sat_1,GS connect
+1927,sat_1,get_global
+1930,sat_2,GS connect
+1930,sat_2,get_global
+1936,sat_1,local
+1942,sat_3,local
+1947,sat_5,GS connect
+1947,sat_5,get_global
+1949,sat_2,local
+1952,sat_4,local
+1970,sat_7,GS connect
+1970,sat_7,get_global
+1995,sat_6,GS connect
+1995,sat_6,get_global
+1996,sat_5,local
+2003,sat_3,GS connect
+2013,sat_4,GS connect
+2022,sat_1,GS connect
+2026,sat_2,GS connect
+2039,sat_7,local
+2047,sat_5,GS connect
+2054,sat_6,local
+2073,sat_7,GS connect
+2099,sat_6,GS connect
+2100,sat_3,GS connect
+2100,sat_3,get_global
+2100,sat_6,get_global
+2113,sat_4,GS connect
+2113,sat_4,get_global
+2117,sat_1,GS connect
+2117,sat_1,get_global
+2122,sat_2,GS connect
+2122,sat_2,get_global
+2126,sat_1,local
+2129,sat_3,local
+2141,sat_2,local
+2147,sat_5,GS connect
+2147,sat_5,get_global
+2152,sat_4,local
+2159,sat_6,local
+2176,sat_7,GS connect
+2176,sat_7,get_global
+2196,sat_5,local
+2198,sat_3,GS connect
+2203,sat_6,GS connect
+2212,sat_1,GS connect
+2213,sat_4,GS connect
+2218,sat_2,GS connect
+2245,sat_7,local
+2246,sat_5,GS connect
+2279,sat_7,GS connect
+2280,sat_7,get_global
+2295,sat_3,GS connect
+2295,sat_3,get_global
+2307,sat_1,GS connect
+2307,sat_1,get_global
+2308,sat_6,GS connect
+2308,sat_6,get_global
+2314,sat_2,GS connect
+2314,sat_4,GS connect
+2314,sat_2,get_global
+2314,sat_4,get_global
+2316,sat_1,local
+2324,sat_3,local
+2333,sat_2,local
+2346,sat_5,GS connect
+2346,sat_5,get_global
+2349,sat_7,local
+2353,sat_4,local
+2367,sat_6,local
+2381,sat_7,GS connect
+2393,sat_3,GS connect
+2395,sat_5,local
+2403,sat_1,GS connect
+2410,sat_2,GS connect
+2412,sat_6,GS connect
+2414,sat_4,GS connect
+2446,sat_5,GS connect
+2447,sat_5,get_global
+2484,sat_7,GS connect
+2484,sat_7,get_global
+2490,sat_3,GS connect
+2490,sat_3,get_global
+2496,sat_5,local
+2498,sat_1,GS connect
+2498,sat_1,get_global
+2506,sat_2,GS connect
+2506,sat_2,get_global
+2507,sat_1,local
+2514,sat_4,GS connect
+2514,sat_4,get_global
+2516,sat_6,GS connect
+2516,sat_6,get_global
+2519,sat_3,local
+2525,sat_2,local
+2546,sat_5,GS connect
+2553,sat_4,local
+2553,sat_7,local
+2575,sat_6,local
+2587,sat_3,GS connect
+2587,sat_7,GS connect
+2593,sat_1,GS connect
+2602,sat_2,GS connect
+2615,sat_4,GS connect
+2621,sat_6,GS connect
+2622,sat_4,get_global
+2622,sat_6,get_global
+2645,sat_5,GS connect
+2645,sat_5,get_global
+2661,sat_4,local
+2681,sat_6,local
+2685,sat_3,GS connect
+2685,sat_3,get_global
+2688,sat_1,GS connect
+2688,sat_1,get_global
+2690,sat_7,GS connect
+2690,sat_7,get_global
+2694,sat_5,local
+2697,sat_1,local
+2698,sat_2,GS connect
+2698,sat_2,get_global
+2714,sat_3,local
+2715,sat_4,GS connect
+2717,sat_2,local
+2725,sat_6,GS connect
+2745,sat_5,GS connect
+2759,sat_7,local
+2782,sat_3,GS connect
+2784,sat_1,GS connect
+2793,sat_7,GS connect
+2794,sat_2,GS connect
+2795,sat_1,get_global
+2795,sat_2,get_global
+2795,sat_7,get_global
+2804,sat_1,local
+2814,sat_2,local
+2815,sat_4,GS connect
+2815,sat_4,get_global
+2829,sat_6,GS connect
+2829,sat_6,get_global
+2845,sat_5,GS connect
+2845,sat_5,get_global
+2854,sat_4,local
+2864,sat_7,local
+2879,sat_1,GS connect
+2880,sat_3,GS connect
+2880,sat_3,get_global
+2888,sat_6,local
+2890,sat_2,GS connect
+2894,sat_5,local
+2895,sat_7,GS connect
+2909,sat_3,local
+2916,sat_4,GS connect
+2933,sat_6,GS connect
+2945,sat_5,GS connect
+2974,sat_1,GS connect
+2977,sat_3,GS connect
+2978,sat_1,get_global
+2978,sat_3,get_global
+2986,sat_2,GS connect
+2986,sat_2,get_global
+2987,sat_1,local
+2998,sat_7,GS connect
+2998,sat_7,get_global
+3005,sat_2,local
+3007,sat_3,local
+3016,sat_4,GS connect
+3016,sat_4,get_global
+3038,sat_6,GS connect
+3038,sat_6,get_global
+3045,sat_5,GS connect
+3045,sat_5,get_global
+3055,sat_4,local
+3067,sat_7,local
+3069,sat_1,GS connect
+3075,sat_3,GS connect
+3082,sat_2,GS connect
+3094,sat_5,local
+3097,sat_6,local
+3101,sat_7,GS connect
+3116,sat_4,GS connect
+3142,sat_6,GS connect
+3144,sat_5,GS connect
+3145,sat_5,get_global
+3145,sat_6,get_global
+3165,sat_1,GS connect
+3165,sat_1,get_global
+3172,sat_3,GS connect
+3172,sat_3,get_global
+3174,sat_1,local
+3178,sat_2,GS connect
+3178,sat_2,get_global
+3194,sat_5,local
+3197,sat_2,local
+3201,sat_3,local
+3204,sat_7,GS connect
+3204,sat_7,get_global
+3204,sat_6,local
+3217,sat_4,GS connect
+3217,sat_4,get_global
+3244,sat_5,GS connect
+3246,sat_6,GS connect
+3256,sat_4,local
+3260,sat_1,GS connect
+3270,sat_3,GS connect
+3273,sat_7,local
+3274,sat_2,GS connect
+3307,sat_7,GS connect
+3317,sat_4,GS connect
+3318,sat_4,get_global
+3318,sat_7,get_global
+3344,sat_5,GS connect
+3344,sat_5,get_global
+3351,sat_6,GS connect
+3351,sat_6,get_global
+3355,sat_1,GS connect
+3355,sat_1,get_global
+3357,sat_4,local
+3364,sat_1,local
+3367,sat_3,GS connect
+3367,sat_3,get_global
+3370,sat_2,GS connect
+3370,sat_2,get_global
+3387,sat_7,local
+3389,sat_2,local
+3393,sat_5,local
+3396,sat_3,local
+3409,sat_7,GS connect
+3410,sat_6,local
+3417,sat_4,GS connect
+3444,sat_5,GS connect
+3450,sat_1,GS connect
+3455,sat_6,GS connect
+3465,sat_3,GS connect
+3466,sat_2,GS connect
+3467,sat_2,get_global
+3467,sat_3,get_global
+3467,sat_6,get_global
+3486,sat_2,local
+3496,sat_3,local
+3512,sat_7,GS connect
+3512,sat_7,get_global
+3518,sat_4,GS connect
+3518,sat_4,get_global
+3526,sat_6,local
+3543,sat_5,GS connect
+3543,sat_5,get_global
+3546,sat_1,GS connect
+3546,sat_1,get_global
+3555,sat_1,local
+3557,sat_4,local
+3559,sat_6,GS connect
+3562,sat_2,GS connect
+3562,sat_3,GS connect
+3581,sat_7,local
+3592,sat_5,local
+3615,sat_7,GS connect
+3618,sat_4,GS connect
+3641,sat_1,GS connect
+3643,sat_5,GS connect
+3644,sat_1,get_global
+3644,sat_5,get_global
+3653,sat_1,local
+3658,sat_2,GS connect
+3658,sat_2,get_global
+3660,sat_3,GS connect
+3660,sat_3,get_global
+3663,sat_6,GS connect
+3663,sat_6,get_global
+3677,sat_2,local
+3689,sat_3,local
+3693,sat_5,local
+3718,sat_4,GS connect
+3718,sat_7,GS connect
+3718,sat_4,get_global
+3718,sat_7,get_global
+3722,sat_6,local
+3736,sat_1,GS connect
+3743,sat_5,GS connect
+3754,sat_2,GS connect
+3757,sat_3,GS connect
+3757,sat_4,local
+3768,sat_6,GS connect
+3787,sat_7,local
+3818,sat_4,GS connect
+3821,sat_7,GS connect
+3822,sat_4,get_global
+3822,sat_7,get_global
+3831,sat_1,GS connect
+3831,sat_1,get_global
+3840,sat_1,local
+3843,sat_5,GS connect
+3843,sat_5,get_global
+3850,sat_2,GS connect
+3850,sat_2,get_global
+3854,sat_3,GS connect
+3854,sat_3,get_global
+3861,sat_4,local
+3869,sat_2,local
+3872,sat_6,GS connect
+3872,sat_6,get_global
+3883,sat_3,local
+3891,sat_7,local
+3892,sat_5,local
+3919,sat_4,GS connect
+3923,sat_7,GS connect
+3926,sat_1,GS connect
+3931,sat_6,local
+3942,sat_5,GS connect
+3946,sat_2,GS connect
+3952,sat_3,GS connect
+3976,sat_6,GS connect
+3977,sat_6,get_global
+4019,sat_4,GS connect
+4019,sat_4,get_global
+4022,sat_1,GS connect
+4022,sat_1,get_global
+4026,sat_7,GS connect
+4026,sat_7,get_global
+4031,sat_1,local
+4036,sat_6,local
+4042,sat_2,GS connect
+4042,sat_5,GS connect
+4042,sat_2,get_global
+4042,sat_5,get_global
+4049,sat_3,GS connect
+4049,sat_3,get_global
+4058,sat_4,local
+4061,sat_2,local
+4078,sat_3,local
+4081,sat_6,GS connect
+4091,sat_5,local
+4095,sat_7,local
+4117,sat_1,GS connect
+4119,sat_4,GS connect
+4129,sat_7,GS connect
+4138,sat_2,GS connect
+4142,sat_5,GS connect
+4147,sat_3,GS connect
+4148,sat_2,get_global
+4148,sat_3,get_global
+4148,sat_5,get_global
+4167,sat_2,local
+4177,sat_3,local
+4185,sat_6,GS connect
+4185,sat_6,get_global
+4197,sat_5,local
+4212,sat_1,GS connect
+4212,sat_1,get_global
+4220,sat_4,GS connect
+4220,sat_4,get_global
+4221,sat_1,local
+4232,sat_7,GS connect
+4232,sat_7,get_global
+4233,sat_2,GS connect
+4242,sat_5,GS connect
+4244,sat_3,GS connect
+4244,sat_6,local
+4259,sat_4,local
+4289,sat_6,GS connect
+4301,sat_7,local
+4307,sat_1,GS connect
+4320,sat_4,GS connect
+4329,sat_2,GS connect
+4335,sat_7,GS connect
+4336,sat_2,get_global
+4336,sat_7,get_global
+4341,sat_5,GS connect
+4341,sat_5,get_global
+4342,sat_3,GS connect
+4342,sat_3,get_global
+4355,sat_2,local
+4371,sat_3,local
+4390,sat_5,local
+4393,sat_6,GS connect
+4393,sat_6,get_global
+4403,sat_1,GS connect
+4403,sat_1,get_global
+4405,sat_7,local
+4412,sat_1,local
+4420,sat_4,GS connect
+4420,sat_4,get_global
+4425,sat_2,GS connect
+4437,sat_7,GS connect
+4439,sat_3,GS connect
+4441,sat_5,GS connect
+4452,sat_6,local
+4459,sat_4,local
+4498,sat_1,GS connect
+4498,sat_6,GS connect
+4521,sat_2,GS connect
+4521,sat_4,GS connect
+4522,sat_2,get_global
+4522,sat_4,get_global
+4537,sat_3,GS connect
+4537,sat_3,get_global
+4540,sat_7,GS connect
+4540,sat_7,get_global
+4541,sat_5,GS connect
+4541,sat_5,get_global
+4541,sat_2,local
+4561,sat_4,local
+4566,sat_3,local
+4590,sat_5,local
+4593,sat_1,GS connect
+4593,sat_1,get_global
+4602,sat_6,GS connect
+4602,sat_6,get_global
+4602,sat_1,local
+4609,sat_7,local
+4617,sat_2,GS connect
+4621,sat_4,GS connect
+4634,sat_3,GS connect
+4641,sat_5,GS connect
+4643,sat_7,GS connect
+4661,sat_6,local
+4688,sat_1,GS connect
+4706,sat_6,GS connect
+4707,sat_6,get_global
+4713,sat_2,GS connect
+4713,sat_2,get_global
+4721,sat_4,GS connect
+4721,sat_4,get_global
+4732,sat_3,GS connect
+4732,sat_3,get_global
+4732,sat_2,local
+4740,sat_5,GS connect
+4740,sat_5,get_global
+4746,sat_7,GS connect
+4746,sat_7,get_global
+4760,sat_4,local
+4761,sat_3,local
+4766,sat_6,local
+4784,sat_1,GS connect
+4784,sat_1,get_global
+4789,sat_5,local
+4793,sat_1,local
+4809,sat_2,GS connect
+4811,sat_6,GS connect
+4815,sat_7,local
+4822,sat_4,GS connect
+4829,sat_3,GS connect
+4840,sat_5,GS connect
+4849,sat_7,GS connect
+4850,sat_5,get_global
+4850,sat_7,get_global
+4879,sat_1,GS connect
+4879,sat_1,get_global
+4888,sat_1,local
+4899,sat_5,local
+4905,sat_2,GS connect
+4905,sat_2,get_global
+4915,sat_6,GS connect
+4915,sat_6,get_global
+4919,sat_7,local
+4922,sat_4,GS connect
+4922,sat_4,get_global
+4924,sat_2,local
+4926,sat_3,GS connect
+4926,sat_3,get_global
+4940,sat_5,GS connect
+4951,sat_7,GS connect
+4955,sat_3,local
+4961,sat_4,local
+4974,sat_1,GS connect
+4974,sat_6,local
+5001,sat_2,GS connect
+5019,sat_6,GS connect
+5022,sat_4,GS connect
+5024,sat_3,GS connect
+5025,sat_3,get_global
+5025,sat_4,get_global
+5025,sat_6,get_global
+5040,sat_5,GS connect
+5040,sat_5,get_global
+5054,sat_7,GS connect
+5054,sat_7,get_global
+5054,sat_3,local
+5064,sat_4,local
+5069,sat_1,GS connect
+5069,sat_1,get_global
+5078,sat_1,local
+5084,sat_6,local
+5089,sat_5,local
+5097,sat_2,GS connect
+5097,sat_2,get_global
+5116,sat_2,local
+5121,sat_3,GS connect
+5123,sat_4,GS connect
+5123,sat_6,GS connect
+5123,sat_7,local
+5139,sat_5,GS connect
+5157,sat_7,GS connect
+5165,sat_1,GS connect
+5193,sat_2,GS connect
+5194,sat_2,get_global
+5213,sat_2,local
+5219,sat_3,GS connect
+5219,sat_3,get_global
+5223,sat_4,GS connect
+5223,sat_4,get_global
+5228,sat_6,GS connect
+5228,sat_6,get_global
+5239,sat_5,GS connect
+5239,sat_5,get_global
+5248,sat_3,local
+5260,sat_1,GS connect
+5260,sat_7,GS connect
+5260,sat_1,get_global
+5260,sat_7,get_global
+5262,sat_4,local
+5269,sat_1,local
+5287,sat_6,local
+5288,sat_5,local
+5289,sat_2,GS connect
+5316,sat_3,GS connect
+5323,sat_4,GS connect
+5329,sat_7,local
+5332,sat_6,GS connect
+5339,sat_5,GS connect
+5355,sat_1,GS connect
+5363,sat_7,GS connect
+5364,sat_1,get_global
+5364,sat_7,get_global
+5373,sat_1,local
+5385,sat_2,GS connect
+5385,sat_2,get_global
+5404,sat_2,local
+5414,sat_3,GS connect
+5414,sat_3,get_global
+5424,sat_4,GS connect
+5424,sat_4,get_global
+5433,sat_7,local
+5436,sat_6,GS connect
+5436,sat_6,get_global
+5439,sat_5,GS connect
+5439,sat_5,get_global
+5443,sat_3,local
+5450,sat_1,GS connect
+5463,sat_4,local
+5465,sat_7,GS connect
+5481,sat_2,GS connect
+5488,sat_5,local
+5495,sat_6,local
+5511,sat_3,GS connect
+5524,sat_4,GS connect
+5538,sat_5,GS connect
+5541,sat_6,GS connect
+5542,sat_5,get_global
+5542,sat_6,get_global
+5545,sat_1,GS connect
+5545,sat_1,get_global
+5554,sat_1,local
+5568,sat_7,GS connect
+5568,sat_7,get_global
+5577,sat_2,GS connect
+5577,sat_2,get_global
+5591,sat_5,local
+5596,sat_2,local
+5601,sat_6,local
+5609,sat_3,GS connect
+5609,sat_3,get_global
+5624,sat_4,GS connect
+5624,sat_4,get_global
+5637,sat_7,local
+5638,sat_5,GS connect
+5638,sat_3,local
+5641,sat_1,GS connect
+5645,sat_6,GS connect
+5663,sat_4,local
+5671,sat_7,GS connect
+5673,sat_2,GS connect
+5706,sat_3,GS connect
+5725,sat_4,GS connect
+5726,sat_4,get_global
+5736,sat_1,GS connect
+5736,sat_1,get_global
+5738,sat_5,GS connect
+5738,sat_5,get_global
+5745,sat_1,local
+5749,sat_6,GS connect
+5749,sat_6,get_global
+5765,sat_4,local
+5769,sat_2,GS connect
+5769,sat_2,get_global
+5774,sat_7,GS connect
+5774,sat_7,get_global
+5787,sat_5,local
+5788,sat_2,local
+5804,sat_3,GS connect
+5804,sat_3,get_global
+5808,sat_6,local
+5825,sat_4,GS connect
+5831,sat_1,GS connect
+5833,sat_3,local
+5838,sat_5,GS connect
+5843,sat_7,local
+5853,sat_6,GS connect
+5865,sat_2,GS connect
+5877,sat_7,GS connect
+5901,sat_3,GS connect
+5902,sat_3,get_global
+5925,sat_4,GS connect
+5925,sat_4,get_global
+5926,sat_1,GS connect
+5926,sat_1,get_global
+5931,sat_3,local
+5935,sat_1,local
+5937,sat_5,GS connect
+5937,sat_5,get_global
+5958,sat_6,GS connect
+5958,sat_6,get_global
+5961,sat_2,GS connect
+5961,sat_2,get_global
+5964,sat_4,local
+5979,sat_7,GS connect
+5979,sat_7,get_global
+5980,sat_2,local
+5986,sat_5,local
+5998,sat_3,GS connect
+6017,sat_6,local
+6022,sat_1,GS connect
+6026,sat_4,GS connect
+6037,sat_5,GS connect
+6048,sat_7,local
+6057,sat_2,GS connect
+6062,sat_6,GS connect
+6082,sat_7,GS connect
+6083,sat_7,get_global
+6096,sat_3,GS connect
+6096,sat_3,get_global
+6117,sat_1,GS connect
+6117,sat_1,get_global
+6125,sat_3,local
+6126,sat_4,GS connect
+6126,sat_4,get_global
+6126,sat_1,local
+6137,sat_5,GS connect
+6137,sat_5,get_global
+6152,sat_7,local
+6153,sat_2,GS connect
+6153,sat_2,get_global
+6165,sat_4,local
+6166,sat_6,GS connect
+6166,sat_6,get_global
+6172,sat_2,local
+6185,sat_7,GS connect
+6186,sat_5,local
+6193,sat_3,GS connect
+6212,sat_1,GS connect
+6225,sat_6,local
+6226,sat_4,GS connect
+6237,sat_5,GS connect
+6249,sat_2,GS connect
+6271,sat_6,GS connect
+6272,sat_6,get_global
+6288,sat_7,GS connect
+6288,sat_7,get_global
+6291,sat_3,GS connect
+6291,sat_3,get_global
+6307,sat_1,GS connect
+6307,sat_1,get_global
+6316,sat_1,local
+6320,sat_3,local
+6327,sat_4,GS connect
+6327,sat_4,get_global
+6331,sat_6,local
+6336,sat_5,GS connect
+6336,sat_5,get_global
+6345,sat_2,GS connect
+6345,sat_2,get_global
+6357,sat_7,local
+6364,sat_2,local
+6366,sat_4,local
+6375,sat_6,GS connect
+6385,sat_5,local
+6388,sat_3,GS connect
+6390,sat_7,GS connect
+6403,sat_1,GS connect
+6427,sat_4,GS connect
+6436,sat_5,GS connect
+6441,sat_2,GS connect
+6442,sat_2,get_global
+6442,sat_5,get_global
+6461,sat_2,local
+6479,sat_6,GS connect
+6479,sat_6,get_global
+6486,sat_3,GS connect
+6486,sat_3,get_global
+6491,sat_5,local
+6493,sat_7,GS connect
+6493,sat_7,get_global
+6498,sat_1,GS connect
+6498,sat_1,get_global
+6507,sat_1,local
+6515,sat_3,local
+6527,sat_4,GS connect
+6527,sat_4,get_global
+6536,sat_2,GS connect
+6536,sat_5,GS connect
+6538,sat_6,local
+6562,sat_7,local
+6566,sat_4,local
+6583,sat_3,GS connect
+6583,sat_6,GS connect
+6593,sat_1,GS connect
+6596,sat_7,GS connect
+6628,sat_4,GS connect
+6629,sat_4,get_global
+6632,sat_2,GS connect
+6632,sat_2,get_global
+6636,sat_5,GS connect
+6636,sat_5,get_global
+6651,sat_2,local
+6668,sat_4,local
+6681,sat_3,GS connect
+6681,sat_3,get_global
+6685,sat_5,local
+6688,sat_1,GS connect
+6688,sat_6,GS connect
+6688,sat_1,get_global
+6688,sat_6,get_global
+6697,sat_1,local
+6699,sat_7,GS connect
+6699,sat_7,get_global
+6710,sat_3,local
+6728,sat_2,GS connect
+6728,sat_4,GS connect
+6736,sat_5,GS connect
+6747,sat_6,local
+6768,sat_7,local
+6778,sat_3,GS connect
+6783,sat_1,GS connect
+6792,sat_6,GS connect
+6802,sat_7,GS connect
+6803,sat_6,get_global
+6803,sat_7,get_global
+6824,sat_2,GS connect
+6824,sat_2,get_global
+6828,sat_4,GS connect
+6828,sat_4,get_global
+6835,sat_5,GS connect
+6835,sat_5,get_global
+6843,sat_2,local
+6862,sat_6,local
+6867,sat_4,local
+6872,sat_7,local
+6876,sat_3,GS connect
+6876,sat_3,get_global
+6879,sat_1,GS connect
+6879,sat_1,get_global
+6884,sat_5,local
+6888,sat_1,local
+6896,sat_6,GS connect
+6904,sat_7,GS connect
+6905,sat_3,local
+6920,sat_2,GS connect
+6929,sat_4,GS connect
+6935,sat_5,GS connect
+6973,sat_3,GS connect
+6974,sat_1,GS connect
+6974,sat_1,get_global
+6974,sat_3,get_global
+6983,sat_1,local
+7000,sat_6,GS connect
+7000,sat_6,get_global
+7003,sat_3,local
+7007,sat_7,GS connect
+7007,sat_7,get_global
+7016,sat_2,GS connect
+7016,sat_2,get_global
+7029,sat_4,GS connect
+7029,sat_4,get_global
+7035,sat_5,GS connect
+7035,sat_5,get_global
+7035,sat_2,local
+7059,sat_6,local
+7068,sat_4,local
+7069,sat_1,GS connect
+7070,sat_3,GS connect
+7076,sat_7,local
+7084,sat_5,local
+7105,sat_6,GS connect
+7110,sat_7,GS connect
+7112,sat_2,GS connect
+7129,sat_4,GS connect
+7135,sat_5,GS connect
+7136,sat_4,get_global
+7136,sat_5,get_global
+7164,sat_1,GS connect
+7164,sat_1,get_global
+7168,sat_3,GS connect
+7168,sat_3,get_global
+7173,sat_1,local
+7175,sat_4,local
+7185,sat_5,local
+7197,sat_3,local
+7208,sat_2,GS connect
+7208,sat_2,get_global
+7209,sat_6,GS connect
+7209,sat_6,get_global
+7213,sat_7,GS connect
+7213,sat_7,get_global
+7227,sat_2,local
+7230,sat_4,GS connect
+7234,sat_5,GS connect
+7260,sat_1,GS connect
+7265,sat_3,GS connect
+7268,sat_6,local
+7282,sat_7,local
+7304,sat_2,GS connect
+7313,sat_6,GS connect
+7316,sat_7,GS connect
+7317,sat_6,get_global
+7317,sat_7,get_global
+7330,sat_4,GS connect
+7330,sat_4,get_global
+7334,sat_5,GS connect
+7334,sat_5,get_global
+7355,sat_1,GS connect
+7355,sat_1,get_global
+7363,sat_3,GS connect
+7363,sat_3,get_global
+7364,sat_1,local
+7369,sat_4,local
+7376,sat_6,local
+7383,sat_5,local
+7386,sat_7,local
+7392,sat_3,local
+7400,sat_2,GS connect
+7400,sat_2,get_global
+7418,sat_6,GS connect
+7418,sat_7,GS connect
+7419,sat_2,local
+7430,sat_4,GS connect
+7434,sat_5,GS connect
+7450,sat_1,GS connect
+7460,sat_3,GS connect
+7496,sat_2,GS connect
+7497,sat_2,get_global
+7516,sat_2,local
+7521,sat_7,GS connect
+7521,sat_7,get_global
+7522,sat_6,GS connect
+7522,sat_6,get_global
+7531,sat_4,GS connect
+7531,sat_4,get_global
+7534,sat_5,GS connect
+7534,sat_5,get_global
+7545,sat_1,GS connect
+7545,sat_1,get_global
+7554,sat_1,local
+7558,sat_3,GS connect
+7558,sat_3,get_global
+7570,sat_4,local
+7581,sat_6,local
+7583,sat_5,local
+7587,sat_3,local
+7590,sat_7,local
+7592,sat_2,GS connect
+7624,sat_7,GS connect
+7626,sat_6,GS connect
+7631,sat_4,GS connect
+7633,sat_5,GS connect
+7641,sat_1,GS connect
+7655,sat_3,GS connect
+7656,sat_3,get_global
+7685,sat_3,local
+7688,sat_2,GS connect
+7688,sat_2,get_global
+7707,sat_2,local
+7727,sat_7,GS connect
+7727,sat_7,get_global
+7730,sat_6,GS connect
+7730,sat_6,get_global
+7731,sat_4,GS connect
+7731,sat_4,get_global
+7733,sat_5,GS connect
+7733,sat_5,get_global
+7736,sat_1,GS connect
+7736,sat_1,get_global
+7745,sat_1,local
+7753,sat_3,GS connect
+7770,sat_4,local
+7782,sat_5,local
+7784,sat_2,GS connect
+7789,sat_6,local
+7796,sat_7,local
+7830,sat_7,GS connect
+7831,sat_1,GS connect
+7831,sat_4,GS connect
+7833,sat_5,GS connect
+7835,sat_6,GS connect
+7836,sat_1,get_global
+7836,sat_4,get_global
+7836,sat_5,get_global
+7836,sat_6,get_global
+7836,sat_7,get_global
+7845,sat_1,local
+7850,sat_3,GS connect
+7850,sat_3,get_global
+7875,sat_4,local
+7879,sat_3,local
+7880,sat_2,GS connect
+7880,sat_2,get_global
+7885,sat_5,local
+7895,sat_6,local
+7899,sat_2,local
+7905,sat_7,local
+7926,sat_1,GS connect
+7932,sat_4,GS connect
+7932,sat_7,GS connect
+7933,sat_5,GS connect
+7939,sat_6,GS connect
+7948,sat_3,GS connect
+7976,sat_2,GS connect
+7977,sat_2,get_global
+7996,sat_2,local
+8022,sat_1,GS connect
+8022,sat_1,get_global
+8031,sat_1,local
+8032,sat_4,GS connect
+8032,sat_5,GS connect
+8032,sat_4,get_global
+8032,sat_5,get_global
+8035,sat_7,GS connect
+8035,sat_7,get_global
+8043,sat_6,GS connect
+8043,sat_6,get_global
+8045,sat_3,GS connect
+8045,sat_3,get_global
+8071,sat_4,local
+8072,sat_2,GS connect
+8074,sat_3,local
+8081,sat_5,local
+8102,sat_6,local
+8104,sat_7,local
+8117,sat_1,GS connect
+8132,sat_4,GS connect
+8132,sat_5,GS connect
+8138,sat_7,GS connect
+8142,sat_3,GS connect
+8148,sat_6,GS connect
+8149,sat_3,get_global
+8149,sat_6,get_global
+8149,sat_7,get_global
+8168,sat_2,GS connect
+8168,sat_2,get_global
+8178,sat_3,local
+8187,sat_2,local
+8208,sat_6,local
+8212,sat_1,GS connect
+8212,sat_1,get_global
+8218,sat_7,local
+8221,sat_1,local
+8232,sat_5,GS connect
+8232,sat_5,get_global
+8233,sat_4,GS connect
+8233,sat_4,get_global
+8240,sat_3,GS connect
+8241,sat_7,GS connect
+8252,sat_6,GS connect
+8264,sat_2,GS connect
+8272,sat_4,local
+8281,sat_5,local
+8307,sat_1,GS connect
+8332,sat_5,GS connect
+8333,sat_4,GS connect
+8334,sat_4,get_global
+8334,sat_5,get_global
+8337,sat_3,GS connect
+8337,sat_3,get_global
+8344,sat_7,GS connect
+8344,sat_7,get_global
+8356,sat_6,GS connect
+8356,sat_6,get_global
+8360,sat_2,GS connect
+8360,sat_2,get_global
+8366,sat_3,local
+8373,sat_4,local
+8379,sat_2,local
+8383,sat_5,local
+8402,sat_1,GS connect
+8402,sat_1,get_global
+8411,sat_1,local
+8413,sat_7,local
+8415,sat_6,local
+8431,sat_5,GS connect
+8433,sat_4,GS connect
+8435,sat_3,GS connect
+8446,sat_7,GS connect
+8456,sat_2,GS connect
+8460,sat_6,GS connect
+8461,sat_2,get_global
+8461,sat_6,get_global
+8461,sat_7,get_global
+8480,sat_2,local
+8498,sat_1,GS connect
+8498,sat_1,get_global
+8507,sat_1,local
+8520,sat_6,local
+8530,sat_7,local
+8531,sat_5,GS connect
+8531,sat_5,get_global
+8532,sat_3,GS connect
+8532,sat_3,get_global
+8534,sat_4,GS connect
+8534,sat_4,get_global
+8549,sat_7,GS connect
+8552,sat_2,GS connect
+8561,sat_3,local
+8565,sat_6,GS connect
+8573,sat_4,local
+8580,sat_5,local
+8593,sat_1,GS connect
+8630,sat_3,GS connect
+8631,sat_5,GS connect
+8634,sat_4,GS connect
+8635,sat_3,get_global
+8635,sat_4,get_global
+8635,sat_5,get_global
+8648,sat_2,GS connect
+8648,sat_2,get_global
+8652,sat_7,GS connect
+8652,sat_7,get_global
+8664,sat_3,local
+8667,sat_2,local
+8669,sat_6,GS connect
+8669,sat_6,get_global
+8674,sat_4,local
+8684,sat_5,local
+8688,sat_1,GS connect
+8688,sat_1,get_global
+8697,sat_1,local
+8721,sat_7,local
+8727,sat_3,GS connect
+8728,sat_6,local
+8731,sat_5,GS connect
+8734,sat_4,GS connect
+8744,sat_2,GS connect
+8755,sat_7,GS connect
+8773,sat_6,GS connect
+8774,sat_6,get_global
+8783,sat_1,GS connect
+8783,sat_1,get_global
+8792,sat_1,local
+8825,sat_3,GS connect
+8825,sat_3,get_global
+8830,sat_5,GS connect
+8830,sat_5,get_global
+8833,sat_6,local
+8835,sat_4,GS connect
+8835,sat_4,get_global
+8840,sat_2,GS connect
+8840,sat_2,get_global
+8854,sat_3,local
+8858,sat_7,GS connect
+8858,sat_7,get_global
+8859,sat_2,local
+8874,sat_4,local
+8878,sat_6,GS connect
+8879,sat_1,GS connect
+8879,sat_5,local
+8922,sat_3,GS connect
+8927,sat_7,local
+8930,sat_5,GS connect
+8935,sat_2,GS connect
+8935,sat_4,GS connect
+8960,sat_7,GS connect
+8961,sat_7,get_global
+8974,sat_1,GS connect
+8974,sat_1,get_global
+8982,sat_6,GS connect
+8982,sat_6,get_global
+8983,sat_1,local
+9020,sat_3,GS connect
+9020,sat_3,get_global
+9030,sat_5,GS connect
+9030,sat_5,get_global
+9030,sat_7,local
+9031,sat_2,GS connect
+9031,sat_2,get_global
+9035,sat_4,GS connect
+9035,sat_4,get_global
+9041,sat_6,local
+9049,sat_3,local
+9050,sat_2,local
+9063,sat_7,GS connect
+9069,sat_1,GS connect
+9074,sat_4,local
+9079,sat_5,local
+9086,sat_6,GS connect
+9117,sat_3,GS connect
+9127,sat_2,GS connect
+9130,sat_5,GS connect
+9136,sat_4,GS connect
+9137,sat_2,get_global
+9137,sat_4,get_global
+9137,sat_5,get_global
+9156,sat_2,local
+9164,sat_1,GS connect
+9164,sat_1,get_global
+9166,sat_7,GS connect
+9166,sat_7,get_global
+9173,sat_1,local
+9176,sat_4,local
+9186,sat_5,local
+9190,sat_6,GS connect
+9190,sat_6,get_global
+9214,sat_3,GS connect
+9214,sat_3,get_global
+9223,sat_2,GS connect
+9229,sat_5,GS connect
+9235,sat_7,local
+9236,sat_4,GS connect
+9243,sat_3,local
+9249,sat_6,local
+9260,sat_1,GS connect
+9269,sat_7,GS connect
+9295,sat_6,GS connect
+9312,sat_3,GS connect
+9313,sat_3,get_global
+9319,sat_2,GS connect
+9319,sat_2,get_global
+9329,sat_5,GS connect
+9329,sat_5,get_global
+9336,sat_4,GS connect
+9336,sat_4,get_global
+9338,sat_2,local
+9342,sat_3,local
+9355,sat_1,GS connect
+9355,sat_1,get_global
+9364,sat_1,local
+9372,sat_7,GS connect
+9372,sat_7,get_global
+9375,sat_4,local
+9378,sat_5,local
+9399,sat_6,GS connect
+9399,sat_6,get_global
+9409,sat_3,GS connect
+9415,sat_2,GS connect
+9429,sat_5,GS connect
+9437,sat_4,GS connect
+9441,sat_7,local
+9450,sat_1,GS connect
+9458,sat_6,local
+9474,sat_7,GS connect
+9503,sat_6,GS connect
+9504,sat_6,get_global
+9507,sat_3,GS connect
+9507,sat_3,get_global
+9511,sat_2,GS connect
+9511,sat_2,get_global
+9529,sat_5,GS connect
+9529,sat_5,get_global
+9530,sat_2,local
+9536,sat_3,local
+9537,sat_4,GS connect
+9537,sat_4,get_global
+9545,sat_1,GS connect
+9545,sat_1,get_global
+9554,sat_1,local
+9563,sat_6,local
+9576,sat_4,local
+9577,sat_7,GS connect
+9577,sat_7,get_global
+9578,sat_5,local
+9604,sat_3,GS connect
+9607,sat_2,GS connect
+9608,sat_6,GS connect
+9628,sat_5,GS connect
+9637,sat_4,GS connect
+9641,sat_1,GS connect
+9646,sat_7,local
+9680,sat_7,GS connect
+9681,sat_7,get_global
+9702,sat_3,GS connect
+9702,sat_3,get_global
+9703,sat_2,GS connect
+9703,sat_2,get_global
+9712,sat_6,GS connect
+9712,sat_6,get_global
+9722,sat_2,local
+9728,sat_5,GS connect
+9728,sat_5,get_global
+9731,sat_3,local
+9736,sat_1,GS connect
+9736,sat_1,get_global
+9738,sat_4,GS connect
+9738,sat_4,get_global
+9745,sat_1,local
+9750,sat_7,local
+9771,sat_6,local
+9777,sat_4,local
+9777,sat_5,local
+9783,sat_7,GS connect
+9799,sat_2,GS connect
+9799,sat_3,GS connect
+9816,sat_6,GS connect
+9828,sat_5,GS connect
+9831,sat_1,GS connect
+9838,sat_4,GS connect
+9839,sat_1,get_global
+9839,sat_4,get_global
+9839,sat_5,get_global
+9848,sat_1,local
+9878,sat_4,local
+9886,sat_7,GS connect
+9886,sat_7,get_global
+9888,sat_5,local
+9895,sat_2,GS connect
+9895,sat_2,get_global
+9897,sat_3,GS connect
+9897,sat_3,get_global
+9914,sat_2,local
+9920,sat_6,GS connect
+9920,sat_6,get_global
+9926,sat_1,GS connect
+9926,sat_3,local
+9928,sat_5,GS connect
+9938,sat_4,GS connect
+9955,sat_7,local
+9979,sat_6,local
+9988,sat_7,GS connect
+9991,sat_2,GS connect
+9994,sat_3,GS connect
+10021,sat_1,GS connect
+10025,sat_6,GS connect
+10026,sat_1,get_global
+10026,sat_6,get_global
+10027,sat_5,GS connect
+10027,sat_5,get_global
+10035,sat_1,local
+10039,sat_4,GS connect
+10039,sat_4,get_global
+10076,sat_5,local
+10078,sat_4,local
+10085,sat_6,local
+10087,sat_2,GS connect
+10087,sat_2,get_global
+10091,sat_7,GS connect
+10091,sat_7,get_global
+10092,sat_3,GS connect
+10092,sat_3,get_global
+10106,sat_2,local
+10117,sat_1,GS connect
+10121,sat_3,local
+10127,sat_5,GS connect
+10129,sat_6,GS connect
+10139,sat_4,GS connect
+10160,sat_7,local
+10183,sat_2,GS connect
+10189,sat_3,GS connect
+10194,sat_7,GS connect
+10195,sat_3,get_global
+10195,sat_7,get_global
+10212,sat_1,GS connect
+10212,sat_1,get_global
+10221,sat_1,local
+10224,sat_3,local
+10227,sat_5,GS connect
+10227,sat_5,get_global
+10233,sat_6,GS connect
+10233,sat_6,get_global
+10239,sat_4,GS connect
+10239,sat_4,get_global
+10264,sat_7,local
+10276,sat_5,local
+10278,sat_4,local
+10279,sat_2,GS connect
+10279,sat_2,get_global
+10286,sat_3,GS connect
+10292,sat_6,local
+10297,sat_7,GS connect
+10298,sat_2,local
+10307,sat_1,GS connect
+10327,sat_5,GS connect
+10338,sat_6,GS connect
+10340,sat_4,GS connect
+10375,sat_2,GS connect
+10376,sat_2,get_global
+10384,sat_3,GS connect
+10384,sat_3,get_global
+10395,sat_2,local
+10400,sat_7,GS connect
+10400,sat_7,get_global
+10402,sat_1,GS connect
+10402,sat_1,get_global
+10411,sat_1,local
+10413,sat_3,local
+10427,sat_5,GS connect
+10427,sat_5,get_global
+10440,sat_4,GS connect
+10440,sat_4,get_global
+10442,sat_6,GS connect
+10442,sat_6,get_global
+10469,sat_7,local
+10471,sat_2,GS connect
+10476,sat_5,local
+10479,sat_4,local
+10481,sat_3,GS connect
+10498,sat_1,GS connect
+10501,sat_6,local
+10502,sat_7,GS connect
+10526,sat_5,GS connect
+10540,sat_4,GS connect
+10546,sat_6,GS connect
+10547,sat_4,get_global
+10547,sat_6,get_global
+10567,sat_2,GS connect
+10567,sat_2,get_global
+10579,sat_3,GS connect
+10579,sat_3,get_global
+10586,sat_2,local
+10586,sat_4,local
+10593,sat_1,GS connect
+10593,sat_1,get_global
+10602,sat_1,local
+10605,sat_7,GS connect
+10605,sat_7,get_global
+10606,sat_6,local
+10608,sat_3,local
+10626,sat_5,GS connect
+10626,sat_5,get_global
+10641,sat_4,GS connect
+10650,sat_6,GS connect
+10663,sat_2,GS connect
+10674,sat_7,local
+10675,sat_5,local
+10676,sat_3,GS connect
+10688,sat_1,GS connect
+10708,sat_7,GS connect
+10726,sat_5,GS connect
+10727,sat_5,get_global
+10741,sat_4,GS connect
+10741,sat_4,get_global
+10755,sat_6,GS connect
+10755,sat_6,get_global
+10759,sat_2,GS connect
+10759,sat_2,get_global
+10774,sat_3,GS connect
+10774,sat_3,get_global
+10776,sat_5,local
+10778,sat_2,local
+10780,sat_4,local
+10783,sat_1,GS connect
+10783,sat_1,get_global
+10792,sat_1,local
+10803,sat_3,local
+10811,sat_7,GS connect
+10811,sat_7,get_global
+10814,sat_6,local
+10826,sat_5,GS connect
+10841,sat_4,GS connect
+10855,sat_2,GS connect
+10859,sat_6,GS connect
+10871,sat_3,GS connect
+10879,sat_1,GS connect
+10880,sat_7,local
+10914,sat_7,GS connect
+10915,sat_7,get_global
+10925,sat_5,GS connect
+10925,sat_5,get_global
+10942,sat_4,GS connect
+10942,sat_4,get_global
+10951,sat_2,GS connect
+10951,sat_2,get_global
+10963,sat_6,GS connect
+10963,sat_6,get_global
+10969,sat_3,GS connect
+10969,sat_3,get_global
+10970,sat_2,local
+10974,sat_1,GS connect
+10974,sat_1,get_global
+10974,sat_5,local
+10981,sat_4,local
+10983,sat_1,local
+10984,sat_7,local
+10998,sat_3,local
+11016,sat_7,GS connect
+11022,sat_6,local
+11025,sat_5,GS connect
+11042,sat_4,GS connect
+11047,sat_2,GS connect
+11066,sat_3,GS connect
+11068,sat_6,GS connect
+11069,sat_1,GS connect
+11069,sat_1,get_global
+11069,sat_3,get_global
+11069,sat_6,get_global
+11078,sat_1,local
+11098,sat_3,local
+11119,sat_7,GS connect
+11119,sat_7,get_global
+11125,sat_5,GS connect
+11125,sat_5,get_global
+11128,sat_6,local
+11142,sat_4,GS connect
+11142,sat_4,get_global
+11143,sat_2,GS connect
+11143,sat_2,get_global
+11162,sat_2,local
+11164,sat_1,GS connect
+11164,sat_3,GS connect
+11172,sat_6,GS connect
+11174,sat_5,local
+11181,sat_4,local
+11188,sat_7,local
+11222,sat_7,GS connect
+11225,sat_5,GS connect
+11238,sat_2,GS connect
+11243,sat_4,GS connect
+11244,sat_2,get_global
+11244,sat_4,get_global
+11260,sat_1,GS connect
+11260,sat_1,get_global
+11261,sat_3,GS connect
+11261,sat_3,get_global
+11263,sat_2,local
+11269,sat_1,local
+11276,sat_6,GS connect
+11276,sat_6,get_global
+11283,sat_4,local
+11290,sat_3,local
+11324,sat_5,GS connect
+11324,sat_5,get_global
+11325,sat_7,GS connect
+11325,sat_7,get_global
+11334,sat_2,GS connect
+11335,sat_6,local
+11343,sat_4,GS connect
+11355,sat_1,GS connect
+11359,sat_3,GS connect
+11373,sat_5,local
+11380,sat_6,GS connect
+11394,sat_7,local
+11424,sat_5,GS connect
+11428,sat_7,GS connect
+11429,sat_5,get_global
+11429,sat_7,get_global
+11430,sat_2,GS connect
+11430,sat_2,get_global
+11443,sat_4,GS connect
+11443,sat_4,get_global
+11449,sat_2,local
+11450,sat_1,GS connect
+11450,sat_1,get_global
+11456,sat_3,GS connect
+11456,sat_3,get_global
+11459,sat_1,local
+11478,sat_5,local
+11482,sat_4,local
+11485,sat_6,GS connect
+11485,sat_6,get_global
+11485,sat_3,local
+11498,sat_7,local
+11524,sat_5,GS connect
+11526,sat_2,GS connect
+11530,sat_7,GS connect
+11543,sat_4,GS connect
+11544,sat_6,local
+11545,sat_1,GS connect
+11553,sat_3,GS connect
+11589,sat_6,GS connect
+11590,sat_6,get_global
+11622,sat_2,GS connect
+11622,sat_2,get_global
+11624,sat_5,GS connect
+11624,sat_5,get_global
+11633,sat_7,GS connect
+11633,sat_7,get_global
+11640,sat_1,GS connect
+11640,sat_1,get_global
+11641,sat_2,local
+11644,sat_4,GS connect
+11644,sat_4,get_global
+11649,sat_1,local
+11649,sat_6,local
+11651,sat_3,GS connect
+11651,sat_3,get_global
+11673,sat_5,local
+11680,sat_3,local
+11683,sat_4,local
+11693,sat_6,GS connect
+11702,sat_7,local
+11718,sat_2,GS connect
+11723,sat_5,GS connect
+11736,sat_1,GS connect
+11736,sat_7,GS connect
+11744,sat_4,GS connect
+11748,sat_3,GS connect
+11749,sat_3,get_global
+11749,sat_4,get_global
+11749,sat_7,get_global
+11778,sat_3,local
+11788,sat_4,local
+11798,sat_6,GS connect
+11798,sat_6,get_global
+11814,sat_2,GS connect
+11814,sat_2,get_global
+11818,sat_7,local
+11823,sat_5,GS connect
+11823,sat_5,get_global
+11831,sat_1,GS connect
+11831,sat_1,get_global
+11833,sat_2,local
+11839,sat_7,GS connect
+11840,sat_1,local
+11844,sat_4,GS connect
+11846,sat_3,GS connect
+11857,sat_6,local
+11872,sat_5,local
+11902,sat_6,GS connect
+11910,sat_2,GS connect
+11923,sat_5,GS connect
+11924,sat_5,get_global
+11926,sat_1,GS connect
+11926,sat_1,get_global
+11935,sat_1,local
+11941,sat_7,GS connect
+11941,sat_7,get_global
+11943,sat_3,GS connect
+11943,sat_3,get_global
+11945,sat_4,GS connect
+11945,sat_4,get_global
+11972,sat_3,local
+11973,sat_5,local
+11984,sat_4,local
+12006,sat_2,GS connect
+12006,sat_6,GS connect
+12006,sat_2,get_global
+12006,sat_6,get_global
+12010,sat_7,local
+12021,sat_1,GS connect
+12023,sat_5,GS connect
+12025,sat_2,local
+12041,sat_3,GS connect
+12044,sat_7,GS connect
+12045,sat_4,GS connect
+12065,sat_6,local
+12102,sat_2,GS connect
+12110,sat_6,GS connect
+12111,sat_2,get_global
+12111,sat_6,get_global
+12117,sat_1,GS connect
+12117,sat_1,get_global
+12122,sat_5,GS connect
+12122,sat_5,get_global
+12126,sat_1,local
+12130,sat_2,local
+12138,sat_3,GS connect
+12138,sat_3,get_global
+12145,sat_4,GS connect
+12145,sat_4,get_global
+12147,sat_7,GS connect
+12147,sat_7,get_global
+12167,sat_3,local
+12170,sat_6,local
+12171,sat_5,local
+12184,sat_4,local
+12198,sat_2,GS connect
+12212,sat_1,GS connect
+12215,sat_6,GS connect
+12216,sat_7,local
+12222,sat_5,GS connect
+12236,sat_3,GS connect
+12246,sat_4,GS connect
+12250,sat_7,GS connect
+12251,sat_4,get_global
+12251,sat_7,get_global
+12290,sat_4,local
+12294,sat_2,GS connect
+12294,sat_2,get_global
+12307,sat_1,GS connect
+12307,sat_1,get_global
+12313,sat_2,local
+12316,sat_1,local
+12319,sat_6,GS connect
+12319,sat_6,get_global
+12320,sat_7,local
+12322,sat_5,GS connect
+12322,sat_5,get_global
+12333,sat_3,GS connect
+12333,sat_3,get_global
+12346,sat_4,GS connect
+12353,sat_7,GS connect
+12362,sat_3,local
+12371,sat_5,local
+12378,sat_6,local
+12390,sat_2,GS connect
+12402,sat_1,GS connect
+12422,sat_5,GS connect
+12423,sat_6,GS connect
+12431,sat_3,GS connect
+12432,sat_3,get_global
+12432,sat_5,get_global
+12432,sat_6,get_global
+12446,sat_4,GS connect
+12446,sat_4,get_global
+12455,sat_7,GS connect
+12455,sat_7,get_global
+12461,sat_3,local
+12481,sat_5,local
+12485,sat_4,local
+12486,sat_2,GS connect
+12486,sat_2,get_global
+12491,sat_6,local
+12498,sat_1,GS connect
+12498,sat_1,get_global
+12505,sat_2,local
+12507,sat_1,local
+12521,sat_5,GS connect
+12524,sat_7,local
+12528,sat_3,GS connect
+12528,sat_6,GS connect
+12547,sat_4,GS connect
+12558,sat_7,GS connect
+12582,sat_2,GS connect
+12583,sat_2,get_global
+12593,sat_1,GS connect
+12593,sat_1,get_global
+12602,sat_1,local
+12602,sat_2,local
+12621,sat_5,GS connect
+12621,sat_5,get_global
+12625,sat_3,GS connect
+12625,sat_3,get_global
+12632,sat_6,GS connect
+12632,sat_6,get_global
+12647,sat_4,GS connect
+12647,sat_4,get_global
+12654,sat_3,local
+12661,sat_7,GS connect
+12661,sat_7,get_global
+12670,sat_5,local
+12678,sat_2,GS connect
+12686,sat_4,local
+12688,sat_1,GS connect
+12691,sat_6,local
+12721,sat_5,GS connect
+12723,sat_3,GS connect
+12730,sat_7,local
+12736,sat_6,GS connect
+12747,sat_4,GS connect
+12764,sat_7,GS connect
+12765,sat_7,get_global
+12774,sat_2,GS connect
+12774,sat_2,get_global
+12783,sat_1,GS connect
+12783,sat_1,get_global
+12792,sat_1,local
+12793,sat_2,local
+12820,sat_3,GS connect
+12820,sat_3,get_global
+12821,sat_5,GS connect
+12821,sat_5,get_global
+12834,sat_7,local
+12840,sat_6,GS connect
+12840,sat_6,get_global
+12848,sat_4,GS connect
+12848,sat_4,get_global
+12849,sat_3,local
+12867,sat_7,GS connect
+12870,sat_2,GS connect
+12870,sat_5,local
+12879,sat_1,GS connect
+12887,sat_4,local
+12899,sat_6,local
+12918,sat_3,GS connect
+12920,sat_5,GS connect
+12945,sat_6,GS connect
+12948,sat_4,GS connect
+12949,sat_4,get_global
+12949,sat_6,get_global
+12966,sat_2,GS connect
+12966,sat_2,get_global
+12969,sat_7,GS connect
+12969,sat_7,get_global
+12974,sat_1,GS connect
+12974,sat_1,get_global
+12983,sat_1,local
+12985,sat_2,local
+12988,sat_4,local
+13008,sat_6,local
+13015,sat_3,GS connect
+13015,sat_3,get_global
+13020,sat_5,GS connect
+13020,sat_5,get_global
+13038,sat_7,local
+13044,sat_3,local
+13048,sat_4,GS connect
+13049,sat_6,GS connect
+13062,sat_2,GS connect
+13069,sat_1,GS connect
+13069,sat_5,local
+13072,sat_7,GS connect
+13113,sat_3,GS connect
+13120,sat_5,GS connect
+13121,sat_3,get_global
+13121,sat_5,get_global
+13149,sat_4,GS connect
+13149,sat_4,get_global
+13150,sat_3,local
+13153,sat_6,GS connect
+13153,sat_6,get_global
+13158,sat_2,GS connect
+13158,sat_2,get_global
+13164,sat_1,GS connect
+13164,sat_1,get_global
+13170,sat_5,local
+13173,sat_1,local
+13175,sat_7,GS connect
+13175,sat_7,get_global
+13177,sat_2,local
+13188,sat_4,local
+13210,sat_3,GS connect
+13212,sat_6,local
+13220,sat_5,GS connect
+13244,sat_7,local
+13249,sat_4,GS connect
+13254,sat_2,GS connect
+13258,sat_6,GS connect
+13259,sat_1,GS connect
+13278,sat_7,GS connect
+13279,sat_7,get_global
+13308,sat_3,GS connect
+13308,sat_3,get_global
+13319,sat_5,GS connect
+13319,sat_5,get_global
+13337,sat_3,local
+13348,sat_7,local
+13349,sat_4,GS connect
+13349,sat_4,get_global
+13350,sat_2,GS connect
+13350,sat_2,get_global
+13355,sat_1,GS connect
+13355,sat_1,get_global
+13362,sat_6,GS connect
+13362,sat_6,get_global
+13364,sat_1,local
+13368,sat_5,local
+13369,sat_2,local
+13381,sat_7,GS connect
+13388,sat_4,local
+13405,sat_3,GS connect
+13419,sat_5,GS connect
+13421,sat_6,local
+13446,sat_2,GS connect
+13450,sat_1,GS connect
+13450,sat_4,GS connect
+13466,sat_6,GS connect
+13467,sat_6,get_global
+13483,sat_7,GS connect
+13483,sat_7,get_global
+13503,sat_3,GS connect
+13503,sat_3,get_global
+13519,sat_5,GS connect
+13519,sat_5,get_global
+13526,sat_6,local
+13532,sat_3,local
+13542,sat_2,GS connect
+13542,sat_2,get_global
+13545,sat_1,GS connect
+13545,sat_1,get_global
+13550,sat_4,GS connect
+13550,sat_4,get_global
+13552,sat_7,local
+13554,sat_1,local
+13561,sat_2,local
+13568,sat_5,local
+13570,sat_6,GS connect
+13586,sat_7,GS connect
+13589,sat_4,local
+13600,sat_3,GS connect
+13619,sat_5,GS connect
+13637,sat_2,GS connect
+13640,sat_1,GS connect
+13650,sat_4,GS connect
+13651,sat_1,get_global
+13651,sat_4,get_global
+13660,sat_1,local
+13675,sat_6,GS connect
+13675,sat_6,get_global
+13689,sat_7,GS connect
+13689,sat_7,get_global
+13690,sat_4,local
+13697,sat_3,GS connect
+13697,sat_3,get_global
+13718,sat_5,GS connect
+13718,sat_5,get_global
+13726,sat_3,local
+13733,sat_2,GS connect
+13733,sat_2,get_global
+13734,sat_6,local
+13736,sat_1,GS connect
+13751,sat_4,GS connect
+13752,sat_2,local
+13758,sat_7,local
+13767,sat_5,local
+13779,sat_6,GS connect
+13792,sat_7,GS connect
+13795,sat_3,GS connect
+13818,sat_5,GS connect
+13829,sat_2,GS connect
+13830,sat_2,get_global
+13830,sat_5,get_global
+13831,sat_1,GS connect
+13831,sat_1,get_global
+13840,sat_1,local
+13849,sat_2,local
+13851,sat_4,GS connect
+13851,sat_4,get_global
+13879,sat_5,local
+13883,sat_6,GS connect
+13883,sat_6,get_global
+13890,sat_4,local
+13892,sat_3,GS connect
+13892,sat_3,get_global
+13895,sat_7,GS connect
+13895,sat_7,get_global
+13918,sat_5,GS connect
+13921,sat_3,local
+13925,sat_2,GS connect
+13926,sat_1,GS connect
+13942,sat_6,local
+13951,sat_4,GS connect
+13964,sat_7,local
+13988,sat_6,GS connect
+13990,sat_3,GS connect
+13997,sat_7,GS connect
+13998,sat_3,get_global
+13998,sat_6,get_global
+13998,sat_7,get_global
+14018,sat_5,GS connect
+14018,sat_5,get_global
+14021,sat_1,GS connect
+14021,sat_2,GS connect
+14021,sat_1,get_global
+14021,sat_2,get_global
+14027,sat_3,local
+14030,sat_1,local
+14040,sat_2,local
+14052,sat_4,GS connect
+14052,sat_4,get_global
+14057,sat_6,local
+14067,sat_5,local
+14067,sat_7,local
+14087,sat_3,GS connect
+14091,sat_4,local
+14092,sat_6,GS connect
+14100,sat_7,GS connect
+14117,sat_1,GS connect
+14117,sat_2,GS connect
+14118,sat_5,GS connect
+14152,sat_4,GS connect
+14153,sat_4,get_global
+14185,sat_3,GS connect
+14185,sat_3,get_global
+14192,sat_4,local
+14196,sat_6,GS connect
+14196,sat_6,get_global
+14203,sat_7,GS connect
+14203,sat_7,get_global
+14212,sat_1,GS connect
+14212,sat_1,get_global
+14213,sat_2,GS connect
+14213,sat_2,get_global
+14214,sat_3,local
+14217,sat_5,GS connect
+14217,sat_5,get_global
+14221,sat_1,local
+14232,sat_2,local
+14252,sat_4,GS connect
+14255,sat_6,local
+14266,sat_5,local
+14272,sat_7,local
+14282,sat_3,GS connect
+14300,sat_6,GS connect
+14306,sat_7,GS connect
+14307,sat_1,GS connect
+14309,sat_2,GS connect
+14317,sat_5,GS connect
+14318,sat_1,get_global
+14318,sat_2,get_global
+14318,sat_5,get_global
+14318,sat_7,get_global
+14327,sat_1,local
+14337,sat_2,local
+14353,sat_4,GS connect
+14353,sat_4,get_global
+14367,sat_5,local
+14380,sat_3,GS connect
+14380,sat_3,get_global
+14387,sat_7,local
+14392,sat_4,local
+14402,sat_1,GS connect
+14405,sat_2,GS connect
+14405,sat_6,GS connect
+14405,sat_6,get_global
+14409,sat_7,GS connect
+14409,sat_3,local
+14417,sat_5,GS connect
+14453,sat_4,GS connect
+14464,sat_6,local
+14477,sat_3,GS connect
+14497,sat_1,GS connect
+14501,sat_2,GS connect
+14509,sat_6,GS connect
+14510,sat_2,get_global
+14510,sat_6,get_global
+14511,sat_7,GS connect
+14511,sat_7,get_global
+14517,sat_5,GS connect
+14517,sat_5,get_global
+14529,sat_2,local
+14553,sat_4,GS connect
+14553,sat_4,get_global
+14566,sat_5,local
+14569,sat_6,local
+14575,sat_3,GS connect
+14575,sat_3,get_global
+14580,sat_7,local
+14592,sat_4,local
+14593,sat_1,GS connect
+14593,sat_1,get_global
+14597,sat_2,GS connect
+14602,sat_1,local
+14604,sat_3,local
+14613,sat_6,GS connect
+14614,sat_7,GS connect
+14616,sat_5,GS connect
+14654,sat_4,GS connect
+14672,sat_3,GS connect
+14673,sat_3,get_global
+14688,sat_1,GS connect
+14688,sat_1,get_global
+14693,sat_2,GS connect
+14693,sat_2,get_global
+14697,sat_1,local
+14702,sat_3,local
+14712,sat_2,local
+14716,sat_5,GS connect
+14716,sat_5,get_global
+14717,sat_7,GS connect
+14717,sat_7,get_global
+14718,sat_6,GS connect
+14718,sat_6,get_global
+14754,sat_4,GS connect
+14754,sat_4,get_global
+14765,sat_5,local
+14769,sat_3,GS connect
+14777,sat_6,local
+14783,sat_1,GS connect
+14786,sat_7,local
+14789,sat_2,GS connect
+14793,sat_4,local
+14816,sat_5,GS connect
+14820,sat_7,GS connect
+14822,sat_6,GS connect
+14854,sat_4,GS connect
+14855,sat_4,get_global
+14867,sat_3,GS connect
+14867,sat_3,get_global
+14878,sat_1,GS connect
+14878,sat_1,get_global
+14885,sat_2,GS connect
+14885,sat_2,get_global
+14887,sat_1,local
+14894,sat_4,local
+14896,sat_3,local
+14904,sat_2,local
+14916,sat_5,GS connect
+14916,sat_5,get_global
+14923,sat_7,GS connect
+14923,sat_7,get_global
+14926,sat_6,GS connect
+14926,sat_6,get_global
+14955,sat_4,GS connect
+14964,sat_3,GS connect
+14965,sat_5,local
+14974,sat_1,GS connect
+14981,sat_2,GS connect
+14985,sat_6,local
+14992,sat_7,local
+15015,sat_5,GS connect
+15025,sat_7,GS connect
+15030,sat_6,GS connect
+15031,sat_6,get_global
+15031,sat_7,get_global
+15055,sat_4,GS connect
+15055,sat_4,get_global
+15062,sat_3,GS connect
+15062,sat_3,get_global
+15069,sat_1,GS connect
+15069,sat_1,get_global
+15077,sat_2,GS connect
+15077,sat_2,get_global
+15078,sat_1,local
+15090,sat_6,local
+15091,sat_3,local
+15094,sat_4,local
+15096,sat_2,local
+15100,sat_7,local
+15115,sat_5,GS connect
+15115,sat_5,get_global
+15128,sat_7,GS connect
+15135,sat_6,GS connect
+15155,sat_4,GS connect
+15159,sat_3,GS connect
+15164,sat_1,GS connect
+15164,sat_5,local
+15173,sat_2,GS connect
+15215,sat_5,GS connect
+15216,sat_5,get_global
+15231,sat_7,GS connect
+15231,sat_7,get_global
+15239,sat_6,GS connect
+15239,sat_6,get_global
+15255,sat_4,GS connect
+15255,sat_4,get_global
+15257,sat_3,GS connect
+15257,sat_3,get_global
+15259,sat_1,GS connect
+15259,sat_1,get_global
+15265,sat_5,local
+15268,sat_1,local
+15269,sat_2,GS connect
+15269,sat_2,get_global
+15286,sat_3,local
+15288,sat_2,local
+15294,sat_4,local
+15298,sat_6,local
+15300,sat_7,local
+15315,sat_5,GS connect
+15334,sat_7,GS connect
+15343,sat_6,GS connect
+15354,sat_3,GS connect
+15355,sat_1,GS connect
+15356,sat_4,GS connect
+15365,sat_2,GS connect
+15366,sat_1,get_global
+15366,sat_2,get_global
+15366,sat_3,get_global
+15366,sat_4,get_global
+15375,sat_1,local
+15385,sat_2,local
+15395,sat_3,local
+15405,sat_4,local
+15414,sat_5,GS connect
+15414,sat_5,get_global
+15437,sat_7,GS connect
+15437,sat_7,get_global
+15448,sat_6,GS connect
+15448,sat_6,get_global
+15450,sat_1,GS connect
+15452,sat_3,GS connect
+15456,sat_4,GS connect
+15461,sat_2,GS connect
+15463,sat_5,local
+15506,sat_7,local
+15507,sat_6,local
+15514,sat_5,GS connect
+15539,sat_7,GS connect
+15545,sat_1,GS connect
+15549,sat_3,GS connect
+15552,sat_6,GS connect
+15553,sat_1,get_global
+15553,sat_3,get_global
+15553,sat_6,get_global
+15553,sat_7,get_global
+15556,sat_4,GS connect
+15556,sat_4,get_global
+15557,sat_2,GS connect
+15557,sat_2,get_global
+15562,sat_1,local
+15576,sat_2,local
+15582,sat_3,local
+15595,sat_4,local
+15612,sat_6,local
+15614,sat_5,GS connect
+15614,sat_5,get_global
+15622,sat_7,local
+15640,sat_1,GS connect
+15642,sat_7,GS connect
+15647,sat_3,GS connect
+15653,sat_2,GS connect
+15656,sat_6,GS connect
+15657,sat_4,GS connect
+15663,sat_5,local
+15714,sat_5,GS connect
+15715,sat_5,get_global
+15736,sat_1,GS connect
+15736,sat_1,get_global
+15744,sat_3,GS connect
+15744,sat_3,get_global
+15745,sat_7,GS connect
+15745,sat_7,get_global
+15745,sat_1,local
+15749,sat_2,GS connect
+15749,sat_2,get_global
+15757,sat_4,GS connect
+15757,sat_4,get_global
+15760,sat_6,GS connect
+15760,sat_6,get_global
+15764,sat_5,local
+15768,sat_2,local
+15773,sat_3,local
+15796,sat_4,local
+15813,sat_5,GS connect
+15814,sat_7,local
+15819,sat_6,local
+15831,sat_1,GS connect
+15841,sat_3,GS connect
+15845,sat_2,GS connect
+15848,sat_7,GS connect
+15857,sat_4,GS connect
+15865,sat_6,GS connect
+15866,sat_4,get_global
+15866,sat_6,get_global
+15905,sat_4,local
+15913,sat_5,GS connect
+15913,sat_5,get_global
+15925,sat_6,local
+15926,sat_1,GS connect
+15926,sat_1,get_global
+15935,sat_1,local
+15939,sat_3,GS connect
+15939,sat_3,get_global
+15940,sat_2,GS connect
+15940,sat_2,get_global
+15951,sat_7,GS connect
+15951,sat_7,get_global
+15958,sat_4,GS connect
+15959,sat_2,local
+15962,sat_5,local
+15968,sat_3,local
+15969,sat_6,GS connect
+16013,sat_5,GS connect
+16020,sat_7,local
+16021,sat_1,GS connect
+16036,sat_2,GS connect
+16036,sat_3,GS connect
+16053,sat_7,GS connect
+16054,sat_7,get_global
+16058,sat_4,GS connect
+16058,sat_4,get_global
+16073,sat_6,GS connect
+16073,sat_6,get_global
+16097,sat_4,local
+16113,sat_5,GS connect
+16113,sat_5,get_global
+16116,sat_1,GS connect
+16116,sat_1,get_global
+16123,sat_7,local
+16125,sat_1,local
+16132,sat_2,GS connect
+16132,sat_2,get_global
+16132,sat_6,local
+16134,sat_3,GS connect
+16134,sat_3,get_global
+16151,sat_2,local
+16156,sat_7,GS connect
+16158,sat_4,GS connect
+16162,sat_5,local
+16163,sat_3,local
+16178,sat_6,GS connect
+16212,sat_1,GS connect
+16212,sat_5,GS connect
+16228,sat_2,GS connect
+16231,sat_3,GS connect
+16232,sat_2,get_global
+16232,sat_3,get_global
+16251,sat_2,local
+16259,sat_4,GS connect
+16259,sat_7,GS connect
+16259,sat_4,get_global
+16259,sat_7,get_global
+16261,sat_3,local
+16282,sat_6,GS connect
+16282,sat_6,get_global
+16298,sat_4,local
+16307,sat_1,GS connect
+16307,sat_1,get_global
+16312,sat_5,GS connect
+16312,sat_5,get_global
+16316,sat_1,local
+16324,sat_2,GS connect
+16328,sat_7,local
+16329,sat_3,GS connect
+16341,sat_6,local
+16359,sat_4,GS connect
+16361,sat_5,local
+16362,sat_7,GS connect
+16386,sat_6,GS connect
+16402,sat_1,GS connect
+16412,sat_5,GS connect
+16413,sat_1,get_global
+16413,sat_5,get_global
+16420,sat_2,GS connect
+16420,sat_2,get_global
+16422,sat_1,local
+16426,sat_3,GS connect
+16426,sat_3,get_global
+16439,sat_2,local
+16455,sat_3,local
+16459,sat_4,GS connect
+16459,sat_4,get_global
+16462,sat_5,local
+16465,sat_7,GS connect
+16465,sat_7,get_global
+16490,sat_6,GS connect
+16490,sat_6,get_global
+16497,sat_1,GS connect
+16498,sat_4,local
+16512,sat_5,GS connect
+16516,sat_2,GS connect
+16524,sat_3,GS connect
+16534,sat_7,local
+16549,sat_6,local
+16560,sat_4,GS connect
+16567,sat_7,GS connect
+16593,sat_1,GS connect
+16595,sat_6,GS connect
+16596,sat_1,get_global
+16596,sat_6,get_global
+16605,sat_1,local
+16611,sat_5,GS connect
+16611,sat_5,get_global
+16612,sat_2,GS connect
+16612,sat_2,get_global
+16621,sat_3,GS connect
+16621,sat_3,get_global
+16631,sat_2,local
+16650,sat_3,local
+16655,sat_6,local
+16660,sat_4,GS connect
+16660,sat_4,get_global
+16660,sat_5,local
+16670,sat_7,GS connect
+16670,sat_7,get_global
+16688,sat_1,GS connect
+16699,sat_6,GS connect
+16699,sat_4,local
+16708,sat_2,GS connect
+16711,sat_5,GS connect
+16719,sat_3,GS connect
+16739,sat_7,local
+16760,sat_4,GS connect
+16773,sat_7,GS connect
+16774,sat_4,get_global
+16774,sat_7,get_global
+16783,sat_1,GS connect
+16783,sat_1,get_global
+16792,sat_1,local
+16803,sat_6,GS connect
+16803,sat_6,get_global
+16804,sat_2,GS connect
+16804,sat_2,get_global
+16811,sat_5,GS connect
+16811,sat_5,get_global
+16813,sat_4,local
+16816,sat_3,GS connect
+16816,sat_3,get_global
+16823,sat_2,local
+16843,sat_7,local
+16845,sat_3,local
+16860,sat_5,local
+16861,sat_4,GS connect
+16862,sat_6,local
+16876,sat_7,GS connect
+16878,sat_1,GS connect
+16900,sat_2,GS connect
+16908,sat_6,GS connect
+16911,sat_5,GS connect
+16913,sat_3,GS connect
+16914,sat_3,get_global
+16914,sat_5,get_global
+16914,sat_6,get_global
+16943,sat_3,local
+16961,sat_4,GS connect
+16961,sat_4,get_global
+16963,sat_5,local
+16973,sat_6,local
+16974,sat_1,GS connect
+16974,sat_1,get_global
+16979,sat_7,GS connect
+16979,sat_7,get_global
+16983,sat_1,local
+16996,sat_2,GS connect
+16996,sat_2,get_global
+17000,sat_4,local
+17010,sat_5,GS connect
+17011,sat_3,GS connect
+17012,sat_6,GS connect
+17015,sat_2,local
+17048,sat_7,local
+17061,sat_4,GS connect
+17069,sat_1,GS connect
+17081,sat_7,GS connect
+17092,sat_2,GS connect
+17093,sat_2,get_global
+17093,sat_7,get_global
+17108,sat_3,GS connect
+17108,sat_3,get_global
+17110,sat_5,GS connect
+17110,sat_5,get_global
+17112,sat_2,local
+17116,sat_6,GS connect
+17116,sat_6,get_global
+17137,sat_3,local
+17159,sat_5,local
+17162,sat_4,GS connect
+17162,sat_4,get_global
+17162,sat_7,local
+17164,sat_1,GS connect
+17164,sat_1,get_global
+17173,sat_1,local
+17175,sat_6,local
+17184,sat_7,GS connect
+17188,sat_2,GS connect
+17201,sat_4,local
+17206,sat_3,GS connect
+17210,sat_5,GS connect
+17220,sat_6,GS connect
+17259,sat_1,GS connect
+17262,sat_4,GS connect
+17263,sat_1,get_global
+17263,sat_4,get_global
+17272,sat_1,local
+17284,sat_2,GS connect
+17284,sat_2,get_global
+17287,sat_7,GS connect
+17287,sat_7,get_global
+17302,sat_4,local
+17303,sat_3,GS connect
+17303,sat_3,get_global
+17303,sat_2,local
+17310,sat_5,GS connect
+17310,sat_5,get_global
+17325,sat_6,GS connect
+17325,sat_6,get_global
+17332,sat_3,local
+17355,sat_1,GS connect
+17356,sat_7,local
+17359,sat_5,local
+17362,sat_4,GS connect
+17380,sat_2,GS connect
+17384,sat_6,local
+17390,sat_7,GS connect
+17401,sat_3,GS connect
+17410,sat_5,GS connect
+17429,sat_6,GS connect
+17430,sat_6,get_global
+17450,sat_1,GS connect
+17450,sat_1,get_global
+17459,sat_1,local
+17463,sat_4,GS connect
+17463,sat_4,get_global
+17476,sat_2,GS connect
+17476,sat_2,get_global
+17489,sat_6,local
+17493,sat_7,GS connect
+17493,sat_7,get_global
+17495,sat_2,local
+17498,sat_3,GS connect
+17498,sat_3,get_global
+17502,sat_4,local
+17509,sat_5,GS connect
+17509,sat_5,get_global
+17527,sat_3,local
+17533,sat_6,GS connect
+17545,sat_1,GS connect
+17558,sat_5,local
+17562,sat_7,local
+17563,sat_4,GS connect
+17572,sat_2,GS connect
+17595,sat_7,GS connect
+17596,sat_3,GS connect
+17609,sat_5,GS connect
+17610,sat_5,get_global
+17610,sat_7,get_global
+17638,sat_6,GS connect
+17638,sat_6,get_global
+17640,sat_1,GS connect
+17640,sat_1,get_global
+17649,sat_1,local
+17659,sat_5,local
+17663,sat_4,GS connect
+17663,sat_4,get_global
+17668,sat_2,GS connect
+17668,sat_2,get_global
+17679,sat_7,local
+17687,sat_2,local
+17693,sat_3,GS connect
+17693,sat_3,get_global
+17697,sat_6,local
+17698,sat_7,GS connect
+17702,sat_4,local
+17709,sat_5,GS connect
+17722,sat_3,local
+17735,sat_1,GS connect
+17742,sat_6,GS connect
+17764,sat_2,GS connect
+17764,sat_4,GS connect
+17791,sat_3,GS connect
+17792,sat_3,get_global
+17801,sat_7,GS connect
+17801,sat_7,get_global
+17809,sat_5,GS connect
+17809,sat_5,get_global
+17821,sat_3,local
+17831,sat_1,GS connect
+17831,sat_1,get_global
+17840,sat_1,local
+17846,sat_6,GS connect
+17846,sat_6,get_global
+17858,sat_5,local
+17860,sat_2,GS connect
+17860,sat_2,get_global
+17864,sat_4,GS connect
+17864,sat_4,get_global
+17870,sat_7,local
+17879,sat_2,local
+17888,sat_3,GS connect
+17903,sat_4,local
+17904,sat_7,GS connect
+17905,sat_6,local
+17908,sat_5,GS connect
+17926,sat_1,GS connect
+17950,sat_6,GS connect
+17956,sat_2,GS connect
+17964,sat_4,GS connect
+17965,sat_2,get_global
+17965,sat_4,get_global
+17965,sat_6,get_global
+17984,sat_2,local
+17986,sat_3,GS connect
+17986,sat_3,get_global
+18004,sat_4,local
+18006,sat_7,GS connect
+18006,sat_7,get_global
+18008,sat_5,GS connect
+18008,sat_5,get_global
+18015,sat_3,local
+18021,sat_1,GS connect
+18021,sat_1,get_global
+18024,sat_6,local
+18030,sat_1,local
+18052,sat_2,GS connect
+18055,sat_6,GS connect
+18057,sat_5,local
+18065,sat_4,GS connect
+18075,sat_7,local
+18083,sat_3,GS connect
+18108,sat_5,GS connect
+18109,sat_7,GS connect
+18110,sat_5,get_global
+18110,sat_7,get_global
+18116,sat_1,GS connect
+18116,sat_1,get_global
+18125,sat_1,local
+18148,sat_2,GS connect
+18148,sat_2,get_global
+18159,sat_6,GS connect
+18159,sat_6,get_global
+18159,sat_5,local
+18165,sat_4,GS connect
+18165,sat_4,get_global
+18167,sat_2,local
+18179,sat_7,local
+18180,sat_3,GS connect
+18180,sat_3,get_global
+18204,sat_4,local
+18208,sat_5,GS connect
+18209,sat_3,local
+18212,sat_1,GS connect
+18212,sat_7,GS connect
+18218,sat_6,local
+18244,sat_2,GS connect
+18263,sat_6,GS connect
+18265,sat_4,GS connect
+18278,sat_3,GS connect
+18279,sat_3,get_global
+18279,sat_4,get_global
+18307,sat_1,GS connect
+18307,sat_5,GS connect
+18307,sat_1,get_global
+18307,sat_5,get_global
+18308,sat_3,local
+18315,sat_7,GS connect
+18315,sat_7,get_global
+18316,sat_1,local
+18318,sat_4,local
+18339,sat_2,GS connect
+18339,sat_2,get_global
+18356,sat_5,local
+18358,sat_2,local
+18366,sat_4,GS connect
+18368,sat_6,GS connect
+18368,sat_6,get_global
+18375,sat_3,GS connect
+18384,sat_7,local
+18402,sat_1,GS connect
+18407,sat_5,GS connect
+18418,sat_7,GS connect
+18427,sat_6,local
+18435,sat_2,GS connect
+18466,sat_4,GS connect
+18472,sat_6,GS connect
+18473,sat_3,GS connect
+18473,sat_3,get_global
+18473,sat_4,get_global
+18473,sat_6,get_global
+18497,sat_1,GS connect
+18497,sat_1,get_global
+18502,sat_3,local
+18506,sat_1,local
+18507,sat_5,GS connect
+18507,sat_5,get_global
+18512,sat_4,local
+18520,sat_7,GS connect
+18520,sat_7,get_global
+18531,sat_2,GS connect
+18531,sat_2,get_global
+18532,sat_6,local
+18550,sat_2,local
+18556,sat_5,local
+18566,sat_4,GS connect
+18570,sat_3,GS connect
+18576,sat_6,GS connect
+18589,sat_7,local
+18593,sat_1,GS connect
+18607,sat_5,GS connect
+18623,sat_7,GS connect
+18627,sat_2,GS connect
+18628,sat_2,get_global
+18628,sat_7,get_global
+18647,sat_2,local
+18667,sat_4,GS connect
+18667,sat_4,get_global
+18668,sat_3,GS connect
+18668,sat_3,get_global
+18680,sat_6,GS connect
+18680,sat_6,get_global
+18688,sat_1,GS connect
+18688,sat_1,get_global
+18697,sat_1,local
+18697,sat_3,local
+18697,sat_7,local
+18706,sat_5,GS connect
+18706,sat_5,get_global
+18706,sat_4,local
+18723,sat_2,GS connect
+18726,sat_7,GS connect
+18739,sat_6,local
+18755,sat_5,local
+18765,sat_3,GS connect
+18767,sat_4,GS connect
+18783,sat_1,GS connect
+18785,sat_6,GS connect
+18806,sat_5,GS connect
+18807,sat_5,get_global
+18819,sat_2,GS connect
+18819,sat_2,get_global
+18829,sat_7,GS connect
+18829,sat_7,get_global
+18838,sat_2,local
+18856,sat_5,local
+18863,sat_3,GS connect
+18863,sat_3,get_global
+18867,sat_4,GS connect
+18867,sat_4,get_global
+18878,sat_1,GS connect
+18878,sat_1,get_global
+18887,sat_1,local
+18889,sat_6,GS connect
+18889,sat_6,get_global
+18892,sat_3,local
+18898,sat_7,local
+18906,sat_5,GS connect
+18906,sat_4,local
+18915,sat_2,GS connect
+18932,sat_7,GS connect
+18948,sat_6,local
+18960,sat_3,GS connect
+18967,sat_4,GS connect
+18974,sat_1,GS connect
+18993,sat_6,GS connect
+18994,sat_6,get_global
+19006,sat_5,GS connect
+19006,sat_5,get_global
+19011,sat_2,GS connect
+19011,sat_2,get_global
+19030,sat_2,local
+19034,sat_7,GS connect
+19034,sat_7,get_global
+19053,sat_6,local
+19055,sat_5,local
+19058,sat_3,GS connect
+19058,sat_3,get_global
+19068,sat_4,GS connect
+19068,sat_4,get_global
+19069,sat_1,GS connect
+19069,sat_1,get_global
+19078,sat_1,local
+19087,sat_3,local
+19098,sat_6,GS connect
+19103,sat_7,local
+19105,sat_5,GS connect
+19107,sat_2,GS connect
+19107,sat_4,local
+19137,sat_7,GS connect
+19155,sat_3,GS connect
+19164,sat_1,GS connect
+19168,sat_4,GS connect
+19169,sat_1,get_global
+19169,sat_4,get_global
+19178,sat_1,local
+19202,sat_6,GS connect
+19202,sat_6,get_global
+19203,sat_2,GS connect
+19203,sat_2,get_global
+19205,sat_5,GS connect
+19205,sat_5,get_global
+19208,sat_4,local
+19222,sat_2,local
+19240,sat_7,GS connect
+19240,sat_7,get_global
+19252,sat_3,GS connect
+19252,sat_3,get_global
+19254,sat_5,local
+19259,sat_1,GS connect
+19261,sat_6,local
+19268,sat_4,GS connect
+19281,sat_3,local
+19299,sat_2,GS connect
+19305,sat_5,GS connect
+19306,sat_6,GS connect
+19309,sat_7,local
+19343,sat_7,GS connect
+19350,sat_3,GS connect
+19351,sat_3,get_global
+19351,sat_7,get_global
+19354,sat_1,GS connect
+19354,sat_1,get_global
+19363,sat_1,local
+19369,sat_4,GS connect
+19369,sat_4,get_global
+19380,sat_3,local
+19395,sat_2,GS connect
+19395,sat_2,get_global
+19405,sat_5,GS connect
+19405,sat_5,get_global
+19408,sat_4,local
+19410,sat_6,GS connect
+19410,sat_6,get_global
+19414,sat_2,local
+19420,sat_7,local
+19446,sat_7,GS connect
+19447,sat_3,GS connect
+19450,sat_1,GS connect
+19454,sat_5,local
+19469,sat_4,GS connect
+19469,sat_6,local
+19491,sat_2,GS connect
+19504,sat_5,GS connect
+19515,sat_6,GS connect
+19516,sat_5,get_global
+19516,sat_6,get_global
+19545,sat_1,GS connect
+19545,sat_3,GS connect
+19545,sat_1,get_global
+19545,sat_3,get_global
+19548,sat_7,GS connect
+19548,sat_7,get_global
+19554,sat_1,local
+19565,sat_5,local
+19569,sat_4,GS connect
+19569,sat_4,get_global
+19574,sat_3,local
+19575,sat_6,local
+19587,sat_2,GS connect
+19587,sat_2,get_global
+19604,sat_5,GS connect
+19606,sat_2,local
+19608,sat_4,local
+19617,sat_7,local
+19619,sat_6,GS connect
+19640,sat_1,GS connect
+19642,sat_3,GS connect
+19651,sat_7,GS connect
+19670,sat_4,GS connect
+19683,sat_2,GS connect
+19684,sat_2,get_global
+19684,sat_4,get_global
+19703,sat_2,local
+19704,sat_5,GS connect
+19704,sat_5,get_global
+19723,sat_6,GS connect
+19723,sat_6,get_global
+19723,sat_4,local
+19735,sat_1,GS connect
+19735,sat_1,get_global
+19740,sat_3,GS connect
+19740,sat_3,get_global
+19744,sat_1,local
+19753,sat_5,local
+19754,sat_7,GS connect
+19754,sat_7,get_global
+19769,sat_3,local
+19770,sat_4,GS connect
+19779,sat_2,GS connect
+19782,sat_6,local
+19804,sat_5,GS connect
+19823,sat_7,local
+19828,sat_6,GS connect
+19831,sat_1,GS connect
+19837,sat_3,GS connect
+19857,sat_7,GS connect
+19858,sat_7,get_global
+19870,sat_4,GS connect
+19870,sat_4,get_global
+19875,sat_2,GS connect
+19875,sat_2,get_global
+19894,sat_2,local
+19903,sat_5,GS connect
+19903,sat_5,get_global
+19909,sat_4,local
+19926,sat_1,GS connect
+19926,sat_1,get_global
+19927,sat_7,local
+19932,sat_6,GS connect
+19932,sat_6,get_global
+19935,sat_3,GS connect
+19935,sat_3,get_global
+19935,sat_1,local
+19952,sat_5,local
+19960,sat_7,GS connect
+19964,sat_3,local
+19971,sat_2,GS connect
+19971,sat_4,GS connect
+19991,sat_6,local
