@@ -1,0 +1,15 @@
+﻿time,model_bytes,offload_bytes,model_hops,offload_hops,note
+70,207950120,0,833,0,decentral_peer_mixing
+140,209447960,0,839,0,decentral_peer_mixing
+210,208948680,0,837,0,decentral_peer_mixing
+280,208948680,0,837,0,decentral_peer_mixing
+350,208449400,0,835,0,decentral_peer_mixing
+420,208199760,0,834,0,decentral_peer_mixing
+490,208199760,0,834,0,decentral_peer_mixing
+560,206951560,0,829,0,decentral_peer_mixing
+630,208699040,0,836,0,decentral_peer_mixing
+700,205703360,0,824,0,decentral_peer_mixing
+770,207450840,0,831,0,decentral_peer_mixing
+840,207700480,0,832,0,decentral_peer_mixing
+910,206452280,0,827,0,decentral_peer_mixing
+980,205453720,0,823,0,decentral_peer_mixing

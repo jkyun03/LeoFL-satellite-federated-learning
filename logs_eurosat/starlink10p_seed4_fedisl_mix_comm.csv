@@ -1,0 +1,8 @@
+﻿time,model_bytes,offload_bytes,model_hops,offload_hops,note
+160,53565440,0,256,0,"fedisl_leader_mixing,do_offload=False,inter_hops=4"
+300,53565440,0,256,0,"fedisl_leader_mixing,do_offload=False,inter_hops=4"
+447,53565440,0,256,0,"fedisl_leader_mixing,do_offload=False,inter_hops=4"
+587,53565440,0,256,0,"fedisl_leader_mixing,do_offload=False,inter_hops=4"
+733,53565440,0,256,0,"fedisl_leader_mixing,do_offload=False,inter_hops=4"
+873,53565440,0,256,0,"fedisl_leader_mixing,do_offload=False,inter_hops=4"
+999,53565440,0,256,0,"fedisl_leader_mixing,do_offload=False,inter_hops=4"

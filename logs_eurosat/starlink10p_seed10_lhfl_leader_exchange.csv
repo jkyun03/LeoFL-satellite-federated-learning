@@ -1,0 +1,12 @@
+﻿src_plane,dst_plane,src_leader,dst_leader,src_name,dst_name
+0,1,14,41,sat_15,sat_42
+0,9,14,212,sat_15,sat_213
+1,2,41,44,sat_42,sat_45
+2,3,44,69,sat_45,sat_70
+2,4,44,89,sat_45,sat_90
+3,4,69,89,sat_70,sat_90
+5,6,126,143,sat_127,sat_144
+5,7,126,165,sat_127,sat_166
+6,7,143,165,sat_144,sat_166
+7,8,165,187,sat_166,sat_188
+8,9,187,212,sat_188,sat_213

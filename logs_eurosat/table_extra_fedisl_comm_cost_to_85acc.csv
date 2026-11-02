@@ -1,0 +1,4 @@
+﻿Method,Target accuracy (%),Update round to target,Simulation time to target (min),Communication cost
+FedAvg,85.0,5,154.0,800
+FedISL,85.0,6,376.0,480
+LH-FL,85.0,5,125.0,810

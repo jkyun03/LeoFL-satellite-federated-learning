@@ -1,0 +1,9 @@
+﻿time,model_bytes,offload_bytes,model_hops,offload_hops,note
+107,55239360,0,264,0,"fedisl_ps_hops=12,isl_hops=252"
+215,55239360,0,264,0,"fedisl_ps_hops=12,isl_hops=252"
+335,55239360,0,264,0,"fedisl_ps_hops=12,isl_hops=252"
+466,55239360,0,264,0,"fedisl_ps_hops=12,isl_hops=252"
+574,55239360,0,264,0,"fedisl_ps_hops=12,isl_hops=252"
+682,55239360,0,264,0,"fedisl_ps_hops=12,isl_hops=252"
+808,55239360,0,264,0,"fedisl_ps_hops=12,isl_hops=252"
+944,55239360,0,264,0,"fedisl_ps_hops=12,isl_hops=252"

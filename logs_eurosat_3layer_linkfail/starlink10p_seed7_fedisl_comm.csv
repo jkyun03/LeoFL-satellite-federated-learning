@@ -1,0 +1,13 @@
+﻿time,model_bytes,offload_bytes,model_hops,offload_hops,note
+73,65655320,0,263,0,"fedisl_ps_hops=12,isl_hops=251"
+153,64407120,0,258,0,"fedisl_ps_hops=12,isl_hops=246"
+235,65405680,0,262,0,"fedisl_ps_hops=12,isl_hops=250"
+317,66404240,0,266,0,"fedisl_ps_hops=12,isl_hops=254"
+396,65904960,0,264,0,"fedisl_ps_hops=12,isl_hops=252"
+481,67902080,0,272,0,"fedisl_ps_hops=12,isl_hops=260"
+551,65156040,0,261,0,"fedisl_ps_hops=12,isl_hops=249"
+631,64157480,0,257,0,"fedisl_ps_hops=12,isl_hops=245"
+713,65655320,0,263,0,"fedisl_ps_hops=12,isl_hops=251"
+794,65655320,0,263,0,"fedisl_ps_hops=12,isl_hops=251"
+876,65405680,0,262,0,"fedisl_ps_hops=12,isl_hops=250"
+959,65655320,0,263,0,"fedisl_ps_hops=12,isl_hops=251"

@@ -1,0 +1,4 @@
+﻿Method,Target accuracy (%),Update round to target,Simulation time to target (min),Communication cost
+Centralized FL,85.0,5,154.0,800
+Decentralized FL,85.0,6,376.0,2256
+LH-FL,85.0,5,125.0,810

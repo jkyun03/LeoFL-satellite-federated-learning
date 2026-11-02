@@ -1,0 +1,9 @@
+﻿time,model_bytes,offload_bytes,model_hops,offload_hops,note
+0,0,0,0,183,offload_transmission_count_A_ring
+62,558180352,0,256,0,hybrid_plane+leaders+bcast
+83,558180352,0,256,0,hybrid_plane+leaders+bcast
+104,558180352,0,256,0,hybrid_plane+leaders+bcast
+125,558180352,0,256,0,hybrid_plane+leaders+bcast
+146,558180352,0,256,0,hybrid_plane+leaders+bcast
+168,558180352,0,256,0,hybrid_plane+leaders+bcast
+191,558180352,0,256,0,hybrid_plane+leaders+bcast
