@@ -1,0 +1,12 @@
+{
+  "method": "offload",
+  "aggregation": "weighted_avg",
+  "seed": 0,
+  "fixed_steps": 5,
+  "offload_ratio": 0.1,
+  "offload_top_pairs_per_sat": 1,
+  "max_local_steps": 50,
+  "total_simulated_time_s": 60000.0,
+  "target_accuracy": 85.0,
+  "log_dir": "./logs_followup/method_offload"
+}

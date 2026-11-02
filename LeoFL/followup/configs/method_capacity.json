@@ -1,0 +1,10 @@
+{
+  "method": "capacity",
+  "aggregation": "fednova",
+  "seed": 0,
+  "fixed_steps": 5,
+  "max_local_steps": 50,
+  "total_simulated_time_s": 60000.0,
+  "target_accuracy": 85.0,
+  "log_dir": "./logs_followup/method_capacity"
+}

@@ -1,0 +1,12 @@
+﻿Method,Final accuracy (%),Reached 85% (seeds),Slow-subgroup recall,Comm. volume (MB)
+Fixed,74.39 ± 2.55,0/10,0.688 ± 0.155,40.33 ± 3.35
+Proportional-Step,81.01 ± 1.79,0/10,0.789 ± 0.094,64.42 ± 5.26
+"Proportional-Step +
+MinWork (0.1)",81.01 ± 1.79,0/10,0.789 ± 0.094,64.42 ± 5.26
+"Proportional-Step +
+MinWork (0.25)",81.05 ± 1.80,0/10,0.790 ± 0.096,64.42 ± 5.26
+"Proportional-Step +
+MinWork (0.5)",81.34 ± 1.40,0/10,0.792 ± 0.102,64.42 ± 5.26
+"Proportional-Step +
+MinWork (1.0)",83.12 ± 1.11,1/10,0.812 ± 0.087,64.42 ± 5.26
+Offload,85.14 ± 0.74,6/10,0.849 ± 0.051,74.96 ± 0.19

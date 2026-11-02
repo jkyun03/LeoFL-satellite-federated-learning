@@ -1,0 +1,11 @@
+{
+  "method": "capacity_minwork",
+  "aggregation": "fednova",
+  "seed": 0,
+  "fixed_steps": 5,
+  "minimum_epoch_fraction": 0.5,
+  "max_local_steps": 50,
+  "total_simulated_time_s": 60000.0,
+  "target_accuracy": 85.0,
+  "log_dir": "./logs_followup/method_capacity_minwork_0.5"
+}

@@ -1,0 +1,23 @@
+{
+  "seed": 0,
+  "constellation": {
+    "kind": "toy_ring",
+    "num_planes": 3,
+    "sats_per_plane": 4,
+    "h_km": 552.0,
+    "incl_deg": 53.0
+  },
+  "leader_top_k": 2,
+  "leader_mixing_beta": 0.5,
+  "non_iid_alpha": 0.5,
+  "train_ratio": 0.8,
+  "epoch_minutes_low": 5,
+  "epoch_minutes_high": 31,
+  "total_simulated_time_s": 3000.0,
+  "seconds_per_round": 60,
+  "target_accuracy": 60.0,
+  "lr": 0.001,
+  "hidden_size": 100,
+  "log_dir": "./logs_followup_smoke_legacy",
+  "device": "cpu"
+}
